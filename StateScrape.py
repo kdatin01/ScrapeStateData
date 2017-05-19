@@ -110,8 +110,9 @@ operators = ['x', '+', '-', '/']
 operatorsText = ['multiple', 'add', 'subtract', 'divide']
 
 lookForward = [0, 1, 2]
+lookForwardMore = [0, 1, 2, 3, 4, 5]
 
-status = ['single', 'married', 'blind', 'deaf', 'age 65', 'dependent']
+statusList = ['(single)', '(married)', '(dependent)', '(number\s+of\s+[personal\s+]*exemptions)']
 statusKeyWords = '(self)|(spouse)|(single)|(married)|(number\s+of\s+[personal\s+]*exemptions)|(dependent)'
 #statusSearch = re.compile('([single]|[married]|[blind]|[deaf]|[age\s+65]|[dependent])')
 
@@ -290,7 +291,7 @@ def amountSearch(lines, x, status):
     statusAmountPair = []
     print lines[x]
     for y in lookForward:
-        moneySearch = re.search('\$([0-9]+,*[0-9]*\.*[0-9]*)', lines[x + y])
+        moneySearch = re.search('\$*([0-9]+,*[0-9]*\.*[0-9]*)', lines[x + y])
         if moneySearch:
             statusAmount = moneySearch.group(0)
             #operator must be on same line as amount
@@ -305,36 +306,31 @@ def amountSearch(lines, x, status):
             statusAmountPair = [statusAmount, operator]
             statusLineMatch = x + y
     return statusAmountPair, statusLineMatch
-                                    
-def searchTaxFormParagraphs(text, refList):
-    text = text.lower()
-    print text
-    lineSplit = re.split('\n', text)
-    lookAround = [0, 1, -1, 2, -2, 3, -3, 4, -4]
-    lookAroundOrdered = [-4, -3, -2, -1, 0, 1, 2, 3, 4]
-    matchStatus = -1
-    depList = []
-    statusAmount = ''
-    operator = ''
-    depAmount = ''
-    depOperator = ''
-    amountDict = dict()
-    statusDict = dict()
-    termDict = []
-    gotMatch = False
-    statusLineMatch = 0
+
+#Purpose: unpacks data from inside the paragraphList created in getParagraphList
+#Input: paraList - tiered list of strings
+#Output: termList - list of strings(terms)
+#        numList - list of strings (numbers/roman numerals)
+#        termPairing - list of strings(terms and numbers together)
+#        useInst - bool
+def extractParagraphList(paraList):
     termList = []
     numList = []
+    subList = []
+    termPairing = []
     useInst = False
-    pdfType = 'form'
-    
-                                
-    x = 0
-    for outer in refList:
+    subtractMethod = ''
+    status = ''
+    foundStatus = ''
+    for outer in paraList:
         for out in outer:
             print len(out)
             if 'exemption' in out or 'credit' in out:
-                subtractMethod = out
+                subtractMethod = out 
+            elif 'dependent' in out or 'single' in out or 'married' in out or 'number of' in out:
+                foundStatus = re.search(statusKeyWords, out)
+                if foundStatus:
+                    subtractMethod = foundStatus.group(0)  
             else:
                 if len(out) > 1:
                     #stack terms, assuming that one term will lead to finding the other terms.
@@ -342,32 +338,125 @@ def searchTaxFormParagraphs(text, refList):
                         for term in terms:
                             if term == 'line' or term == 'box' or term == 'page' or term == 'part': 
                                 termList.append(term)
+                                subList.append(subtractMethod)
                             elif term == True or term == False:
                                 useInst = term
                             else:
-                                numList.append(term) 
+                                numList.append(term)
+                            
                 else:
                     for terms in out:
                         for termx in terms:
                             if termx == 'line' or termx == 'box' or termx == 'page' or termx == 'part' or termx == 'None':
                                 term = termx
                             elif termx == True or termx == False:
-                                    useInst = termx
+                                useInst = termx
                             else:
                                 stringSearch = termx
-                if useInst == True:
-                    if term == 'page':
-                            pageNums = stringSearch   
-                            instructText = PDF2TXT('/Users/datinkm1/Desktop/Alabama_Income_Instructions.pdf', pageNums)
-                            statusSearch = '(single)'
-                            amountDict = searchTaxInstructions(instructText, subtractMethod, statusKeyWords)
-                            if amountDict:
-                                gotMatch = True
-                elif not termList:
+                if not termList:
                     termPair = [term, stringSearch]
-                    termDict.append(termPair)
+                    termPairing.append(termPair)
+                    #subList.append(subtractMethod)
+    return termList, numList, subList, termPairing, useInst
+
+#Purpose: extract all table data from a list of text
+#Input: list of strings
+#output: column data lists
+def extractTableData(textLines):
+    colDict = dict()
+    delimiter = '\s*-\s*'
+    listColNames = []
+    rangeList = []
+    amountList = []
+    colCounter = 0
+    noNum = 0
+    range = False
+    
+    for x in range(0,len(textLines)):
+        if any(char.isdigit() for char in textLines[x]):
+            if '-' in textLines[x]:
+                range = True
+                noNum = 0
+                numberSplit = re.split(delimiter, textLines[x])
+                print len(numberSplit)
+                if len(numberSplit) == 2:
+                    rangeNum = [numberSplit[0], numberSplit[1]]
+                    rangeList.append(rangeNum)
+            elif 'over' in textLines[x]:
+                noNum = 0
+                getNumber = re.search('(\$*[0-9]+,*[0-9]*\.*[0-9]*)', textLines[x])
+                if getNumber:
+                    rangeNum = [getNumber.group(0), '+']
+                    rangeList.append(rangeNum)
+            elif ',' in textLines[x]:
+                noNum = 0
+                textNew = textLines[x].replace(',','')
+                if textNew.isdigit():
+                    getNumber = re.search('(\$*[0-9]+,*[0-9]*\.*[0-9]*)', textLines[x])
+                    if getNumber:
+                        amountList.append(getNumber.group(0))
+                        colDict['%s' % listColNames[colCounter-1]] = amountList
+            elif textLines[x].isdigit():
+                noNum = 0
+                getNumber = re.search('(\$*[0-9]+,*[0-9]*\.*[0-9]*)', textLines[x])
+                if getNumber:
+                    amountList.append(getNumber.group(0))
+                    colDict['%s' % listColNames[colCounter-1]] = amountList
+            else:
+                noNum += 1
+                if colDict['%s' % listColNames[0]] and noNum > 3:
+                    return colDict
+            if rangeList: #if there have been no read numbers in 3 lines of text, assume the whole table has been read
+                colDict['%s' % listColNames[colCounter-1]] = rangeList
+        else:
+            if x < 1:
+                listColNames.append(textLines[x])
+                colDict['%s' % listColNames[x]] = []
+                colCounter += 1
+            else:
+                if colDict['%s' % listColNames[colCounter-1]]:
+                    listColNames.append(textLines[x])
+                    colDict['%s' % listColNames[colCounter]] = []
+                    colCounter += 1
+                    noNum += 1
+                    rangeList = []
+                else:
+                    noNum += 1
+                if colDict['%s' % listColNames[0]] and noNum > 3: 
+                    #if there have been no read numbers in 3 lines of text, assume the whole table has been read
+                    return colDict, range    
+                                    
+def searchTaxFormParagraphs(text, refList):
+    text = text.lower()
+    print text
+    lineSplit = re.split('\n', text)
+    lookAround = [0, 1, -1, 2, -2, 3, -3, 4, -4]
+    matchStatus = -1
+    depList = []
+    depAmount = ''
+    depOperator = ''
+    amountDict = dict()
+    statusDict = dict()
+    statusLineMatch = 0
+    pdfType = 'form'
+    hasTable = False #determined from reading the file and finding multiple lines with just numbers
+    foundMoney = 0
+    diffSubs = False
+    
+    termList, numList, subList, termDict, useInst =  extractParagraphList(refList)
+    overallSubMethod = subList[0]
+    
+    if useInst == True:
+        if 'page' in termList: #!!!Need to make this work without termList!!!  right now, term list needed to get pagenums and subtractMethod
+            ind = termList.index('page')
+            pageNums = numList[ind]
+            subtractMethod = subList[ind]   
+            instructText = PDF2TXT('/Users/datinkm1/Desktop/Alabama_Income_Instructions.pdf', pageNums)
+            amountDict = searchTaxInstructions(instructText, subtractMethod, statusKeyWords)
+            if amountDict:
+                gotMatch = True                          
+    
     if termList:
-        gotMatch = False
         if 'page' in termList:
             page = True
             pdf = '/Users/datinkm1/Desktop/AlabamaIncomeTaxForm.pdf'
@@ -392,7 +481,8 @@ def searchTaxFormParagraphs(text, refList):
                 page = False
                 pdf = '/Users/datinkm1/Desktop/Alabama_Income_Instructions.pdf'
                 pdfType = 'instructions'
-                statusDict = searchText(termList, numList, page, pdf, pdfType)   
+                statusDict = searchText(termList, numList, page, pdf, pdfType) 
+    x = 0  
     if termDict:
         for i in lineSplit:
             print repr(i)
@@ -466,8 +556,76 @@ def searchTaxFormParagraphs(text, refList):
             if statusAmountPair:
                 amountDict[status] = statusAmountPair
             else:
-                paragraphList, useInst = searchTermInLine(currLine)
-                print paragraphList
+                referenceList = getParagraphList(currLine, statusList)
+                #paragraphList, useInst = searchTermInLine(currLine)
+                #refPair = [overallSubMethod, paragraphList]
+                #referenceList.append(refPair)
+                termList, numList, subList, termDict, useInst =  extractParagraphList(referenceList)
+                if 'page' in termList: #first looks for page
+                    ind = termList.index('page')
+                    pageNums = numList[ind]
+                    if not useInst:
+                        pdfText = PDF2TXT('/Users/datinkm1/Desktop/AlabamaIncomeTaxForm.pdf', pageNums)
+                        if pdfText:
+                            #page number exists in tax form
+                            print pdfText
+                        else:
+                            pdfText = PDF2TXT('/Users/datinkm1/Desktop/Alabama_Income_Instructions.pdf', pageNums)
+                        if pdfText:
+                            pdfText = pdfText.lower()
+                            instrLines = re.split('\n', pdfText)
+                            for term in termList:
+                                if term != 'page':
+                                    ind = termList.index(term)
+                                    num = numList[ind]
+                                    for line in instrLines:
+                                        for number in num:
+                                            termSearch = term + '\s*' + number + '\s+'
+                                            findTerm = re.search(termSearch, line, flags = re.DOTALL)
+                                            if findTerm:
+                                                print line
+                                    if not findTerm:
+                                        sub = subList[0]
+                                        for i in range(1,len(subList)):
+                                            if subList[i] != sub:
+                                                diffSubs = True
+                                        for x in range(0, len(instrLines)):
+                                            sub = subList[0]
+                                            findSub = re.search(sub, instrLines[x])
+                                            if findSub:
+                                                for y in lookForwardMore:
+                                                    findMoney = re.search('(\$*[0-9]+,*[0-9]*\.*[0-9]*)', instrLines[x + y])
+                                                    findLetters = re.search('[A-Za-z]+', instrLines[x + y])
+                                                    if findMoney and not findLetters:
+                                                        foundMoney += 1
+                                                    else:
+                                                        foundMoney  = 0
+                                                    if foundMoney >= 2:
+                                                        hasTable = True
+                                                        
+                                            if diffSubs == True:
+                                                for i in range(1,len(subList)):
+                                                    if subList[i] != sub:
+                                                        findSub = re.search(subList[i], instrLines[x])
+                                                        if findSub:
+                                                            for y in lookForward:
+                                                                findMoney = re.search('(\$*[0-9]+,*[0-9]*\.*[0-9]*)', instrLines[x + y])
+                                                                findLetters = re.search('[A-Za-z]+', instrLines[x + y])
+                                                                if findMoney and not findLetters:
+                                                                    foundMoney += 1
+                                                                else:
+                                                                    foundMoney  = 0
+                                                                if foundMoney >= 2:
+                                                                    hasTable = True
+                                            else:
+                                                break
+                                                    
+                                    
+                            if hasTable == True:
+                                table, rangeInd = extractTableData(instrLines)
+                                #FOR TOMORROW: check previous states to see what needs to be fixed here to work for them
+                                #then add readTableData function to figure out how to apply exemption correctly with table data given
+                    
                     
             
         #Was able to get statusAmount from form, will need to pull dependent info from instructions!  More complicated!!!
@@ -506,6 +664,11 @@ def searchTaxFormParagraphs(text, refList):
             
     return amountDict
 
+#Purpose: search a line of text for string containing line, box, part or page numbers and if 
+#    the instruction document should be used for the search of these terms
+#Input: line of text
+#Output: paragraphList(containing info on any line, box, page, or part data contained in line,
+#    as well as if the instruction form should be used)
 def searchTermInLine(line):
     paragraphList = []
     useInst = False
@@ -568,6 +731,10 @@ def searchTermInLine(line):
                     paragraphList.append(refListing)
     return paragraphList, useInst
 
+#Purpose: search a block of text(text) for any instances of a list of strings (stringSearch).
+#Input: text -  string
+#       stringSearch - list of strings
+#Output: referenceList - list of strings
 def getParagraphList(text, stringSearch):
     #split on each newline
     text = text.lower()
@@ -584,10 +751,7 @@ def getParagraphList(text, stringSearch):
         for word in stringSearch:
             searchMatch = re.search(word, i, flags = re.IGNORECASE|re.DOTALL)
             if searchMatch:
-                if 'exemption' in word:
-                    subtractionType = 'personal\s+exemption'
-                elif 'credit' in word:
-                    subtractionType = 'personal\s+[tax\s+]*credit'
+                subtractionType = searchMatch.group(0)
                 paragraphList = []
                 if 'line' in i or 'box' in i or 'page' in i or 'part' in i:
                     gotSearch = True
@@ -603,8 +767,7 @@ def getParagraphList(text, stringSearch):
                 referenceList.append(refPair)
                    
     print referenceList
-    return referenceList
-    #For tomorrow, consider making this function recursive!!!  Thereby getting rid of need for searchTaxFormParagraphs                    
+    return referenceList                  
                                        
                             
 def searchTaxInstructions(text, term = None, searchList = None, scrapeTable = None):
@@ -929,13 +1092,3 @@ if __name__ == '__main__':
         #    for x, y in rate.iteritems():
         #        print str(x) + '\t>\t' + str(y)
         #    print '___________________________________'
-        
-            
-                     
-                        
-                        
-                        
-                            
-        
-            
-    
