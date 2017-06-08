@@ -12,6 +12,7 @@ class IncomeTax(object):
 
     def __init__(self):
         self.statList = []
+        self.operatorList = []
         self.lowIncomeRangeList = []
         self.highIncomeRangeList = []
         self.subtractAmount = []
@@ -22,6 +23,12 @@ class IncomeTax(object):
         self.statList.append(stat)
     def getStatusList(self):
         return self.statList
+    def setOperatorList(self, operatorList):
+        self.operatorList = operatorList
+    def appendOperator(self, operator):
+        self.operatorList.append(operator)
+    def getOperatorList(self):
+        return self.operatorList
     def setLowIncomeRangeList(self, lowRangeList):
         self.lowIncomeRangeList = lowRangeList
     def appendLowIncomeRange(self, lowRange):

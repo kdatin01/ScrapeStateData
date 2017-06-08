@@ -15,7 +15,7 @@ lookForward = [0, 1, 2]
 lookForwardMore = [0, 1, 2, 3, 4, 5]
 lookAround = [0, 1, -1, 2, -2, 3, -3, 4, -4]
 statusSearchSmall = '(single)|(married)|(dependent)|(number\s+of\s+[personal\s+]*exemptions)'
-statusKeyWords = '(self)|(spouse)|(single)|(married)|(number\s+of\s+[personal\s+]*exemptions)|(dependent)'
+statusKeyWords = '(self)|(you)|(spouses)|(spouse)|(single)|(married)|(number\s+of\s+[personal\s+]*exemptions)|(dependent)'
 statusKeyWords_NC = 'self|spouse|single|married|number\s+of\s+[personal\s+]*exemptions|dependent|personal'
 
 '''
@@ -275,6 +275,7 @@ def searchForStatus(text, pdfType, refTerm, dictionary, subtractMethod):
         gotIn = False
         stringMatch = re.search(refTerm, text[x], re.IGNORECASE)#look for exemption/tax credit string in each line of the form
         if stringMatch:
+            print text[x]
             for y in lookAround: #if found, look 4 lines before to 4 lines after for one of the status words
                 status = []
                 if x + y < len(text):
@@ -307,18 +308,21 @@ def appendTaxInfo(incomeObj, stat, amount, operator, lowRange, highRange, subtra
         incomeObj.appendLowIncomeRange(lowRange)
         incomeObj.appendHighIncomeRange(highRange)
         incomeObj.appendSubtractAmount(amount)
+        incomeObj.appendOperator(operator)
         incomeObj.appendSubtractType(subtractMethod)
     elif fromTable == True:
         incomeObj.appendStatus(stat)
         incomeObj.appendLowIncomeRange(lowRange)
         incomeObj.appendHighIncomeRange(highRange)
         incomeObj.appendSubtractAmount(amount)
+        incomeObj.appendOperator(operator)
         incomeObj.appendSubtractType(subtractMethod)
 
 '''
-Purpose:
-Input:
-Output:
+Purpose: checks if a particular status is stored in the IncomeTax status list
+Input:  incomeObj(IncomeTax)
+        stat(str) - stat to be looked for in the status list
+Output: bool - indicates if stat is in list or not
 '''
 def statInIncomeTaxStatList(incomeObj, stat):
     if stat not in incomeObj.getStatusList():
@@ -417,9 +421,12 @@ def getParagraphList(text, stringSearch):
     useInst = False
     for i in lineSplit:
         #search for Personal Exemption, Personal Tax Credit
+        print i
         gotSearch = False
+        useInst = False
         searchMatch = re.search(stringSearch, i, flags = re.IGNORECASE|re.DOTALL)
         if searchMatch:
+            print i
             subtractionType = searchMatch.group(0)
             paragraphList = []
             if 'line' in i or 'box' in i or 'page' in i or 'part' in i:
@@ -493,6 +500,7 @@ def searchTaxFormParagraphs(stateObj, text, refList):
                                     appendTaxInfo(incomeObj, stat[k], amount[k], operator[k], lowRange[k], highRange[k], subtractMethod[x], foundTable) 
                     else: #no searchTermList specified
                         instructText = PDF2TXT(stateObj.getInstrDir())
+                        print instructText
                         stat, amount, operator, statusLineMatch, lowRange, highRange = searchTaxInstructions(instructText, subtractMethod[x], statusKeyWords)
                         if amount:
                             for k in range(0, len(amount)):
@@ -530,6 +538,8 @@ def searchTaxFormParagraphs(stateObj, text, refList):
             subtractMethod = statusPair[2]
             foundTable = False
             keepGoing = False
+            lineNow = lineSplit[line]
+            print lineNow
             
             for stat in status:    
                 if type == 'form':
@@ -666,7 +676,19 @@ def readReferenceList(refListGroup):
     numsList = []
     for term in refListGroup:
         if 'exemption' in term or 'credit' in term:
-            subtractMethod.append(term)
+            if 'exemption' in term:
+                if 'personal' in term:
+                    searchTerm = 'personal\s+exemption'
+                else:
+                    searchTerm = 'exemption'
+            if 'credit' in term:
+                if 'personal' in term:
+                    searchTerm = 'personal\s+[tax\s+]*credit'
+                elif 'tax' in term:
+                    searchTerm = 'tax\s+credit'
+                else:
+                    searchTerm = 'credit'
+            subtractMethod.append(searchTerm)
         elif 'dependent' in term or 'single' in term or 'married' in term or 'number of' in term and 'exemption' not in term and 'credit' not in term:
             statList.append(term)
         elif isinstance(term, (list, tuple)):
@@ -698,6 +720,7 @@ def amountSearch(lines, x, status):
         rangeLow = ''
         rangeHigh = ''
         moneySearch = re.search('\$([0-9]+,*[0-9]*\.{0,1}[0-9]*)', lines[x + y])
+        print lines[x + y]
         if moneySearch:
             statusAmount = moneySearch.group(0)
             rangeLow = '0'
@@ -714,6 +737,22 @@ def amountSearch(lines, x, status):
             statusLineMatch = x + y
             break
     return statusAmount, operator, statusLineMatch, rangeLow, rangeHigh
+
+def assignStatus(line, status):
+    print line
+    print status
+    if 'married' in line and 'dependent' in line and 'not' not in line:
+        overallStatus = 'married + dependent'
+    elif status == 'you' or status == 'single' or status == 'self' or status == 'number of personal exemptions':
+        overallStatus = 'single'
+    elif status == 'spouse' or status == 'married' or status == 'spouses':
+        overallStatus = 'married'
+    elif status == 'dependent':
+        overallStatus = 'dependent'
+    else:
+        overallStatus = 'CHECK!!!'
+    
+    return overallStatus
                                     
 '''
 Purpose:
@@ -745,17 +784,21 @@ def searchTaxInstructions(text, term = None, search = None, scrapeTable = None):
         for n in range(0,len(lineSplit)):
             termSearch = re.search(term, lineSplit[n])
             if termSearch:
+                print lineSplit[n]
                 for i in lookAround:
                     statusSearch = re.search(search, lineSplit[n+i])
                     if statusSearch:
+                        print lineSplit[n + i]
                         status = statusSearch.group(0)
+                        finalStat = assignStatus(lineSplit[n + i], status)
 #                         statusAmountPair, statusLineMatch = amountSearch(lineSplit, n+i, status)
-                        amount, operator, statusLineMatch, lowRange, highRange = amountSearch(lineSplit, n+i, status)
+                        amount, operator, statusLineMatch, lowRange, highRange = amountSearch(lineSplit, n+i, finalStat)
                         if amount != '':
-                            amountList.append(amount)
-                            operatorList.append(operator)
-                            lowRangeList.append(lowRange)
-                            highRangeList.append(highRange)
-                            statusList.append(status)                               
+                            if finalStat not in statusList:
+                                amountList.append(amount)
+                                operatorList.append(operator)
+                                lowRangeList.append(lowRange)
+                                highRangeList.append(highRange)
+                                statusList.append(finalStat)                               
     
     return statusList, amountList, operatorList, statusLineMatch, lowRangeList, highRangeList

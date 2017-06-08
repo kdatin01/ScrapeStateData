@@ -84,18 +84,33 @@ if __name__ == '__main__':
     #AR: Done, just form
     #DE: Done, form + instructions
     #AL: Done
-    #AZ: in progress
-    if len(sys.argv) > 1:
-        #Get file path
+    #AZ: Done, form + instructions
+    
+    exemptAmount = 0
+    status = raw_input('Enter tax filing status( 0 = single, 1 = married): ')
+    if status != '0' and status != '1':
+        status = raw_input('Error!  Enter VALID filing status number. \n1 = single\n2 = married\n: ')
+    dependentExist = raw_input('Do you have dependents? (yes/no): ')
+    if dependentExist != 'yes' and dependentExist != 'no':
+        dependentExist = raw_input('Error!  Enter yes or no\nDo you have dependents? (yes/no): ')
+    if dependentExist == 'yes':
+        dependents = raw_input('Enter number of dependents: ')
+        try:
+            dependentNum = int(dependents)
+        except ValueError:
+            print("Must enter valid integer number")
+    else:
+        dependentNum = 0
+    
+    if status == '0' or status == '1':
         stateRecords = dict()
         stateCount = 0
-        path = ' '.join(sys.argv[1:])
         dir = os.path.dirname(__file__)
-        status = 0
-        dependentNum = 0
+        path = os.path.join(dir, 'TF-State-Individual-Income-Tax-Rates-Brackets-2017.xlsx')
         singleRate, marriedRate, singleExempt, marriedExempt, dependentExempt = excScrape.getStateIncomeTaxRateExemption(path)
         """Read xml file"""
-        file = open('/Users/datinkm1/Desktop/stateDocumentation.xml', 'r')
+        xmlInput = os.path.join(dir, 'stateDocumentation.xml')
+        file = open(xmlInput, 'r')
         for line in file:
             statesTag = '<state>'
             if line.find(statesTag) != -1:
@@ -137,12 +152,12 @@ if __name__ == '__main__':
                 stateObj.setStateWebsite(website)
                 #get exemptAmount for state as specified TF-State-Individual-Income-Tax-Rates-Brackets-2017.xlsx
                 rate = singleRate[name]
-                if status == 0: #single
-                    exemptAmount = excScrape.getExemptAmount(name, singleExempt)
-                elif status == 1: #married
-                    exemptAmount = excScrape.getExemptAmount(name, marriedExempt)
-                elif status == 2: #dependents
-                    exemptAmount = excScrape.getExemptAmount(name, dependentExempt, dependentNum)
+                if status == '0': #single
+                    exemptAmount += excScrape.getExemptAmount(name, singleExempt)
+                elif status == '1': #married
+                    exemptAmount += excScrape.getExemptAmount(name, marriedExempt)
+                if dependentNum != 0: #dependents
+                    exemptAmount += excScrape.getExemptAmount(name, dependentExempt, dependentNum)
 
                 if (instructions == True or form == True) and active == True:
                     formText = pdfScrape.PDF2TXT(stateObj.getFormDir())

@@ -202,6 +202,5 @@ def getExemptAmount(state, exemptDict,  dependentNum = None):
         exemptAmount += exemptDict[state]
     if dependentNum != None: 
         if state in exemptDict:
-            dependentExemptAmount = dependentNum * exemptDict[state]
-            exemptAmount += dependentExemptAmount
+            exemptAmount = dependentNum * exemptAmount
     return exemptAmount
