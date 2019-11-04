@@ -1,0 +1,1511 @@
+﻿web-scraper-order,web-scraper-start-url,link,link-href,job_title,company,rating,next,next-href,reviews,location,job_description
+"1572882165-1745","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Machine Learning Engineer - SR1105 & SR1106","https://www.indeed.com/rc/clk?jk=df484a5cce6f7012&fccid=f3b836e645f9b36d&vjs=3","Machine Learning Engineer - SR1105 & SR1106","SAIC","4 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","2,561","SAIC2,561 reviews-Albuquerque, NM 87106","Job Description
+Description
+SAIC is seeking a Machine Learning Engineering candidate that understands technical and functional design requirements and can work closely with users to define and develop overall requirements. The candidate designs, architects and implements algorithms and techniques with the goals of insight, usability and advancement of technology.
+
+
+
+The work environment is fast-paced and dynamic thus making teaming and effective communication key elements of success. Regularly researches the state of the art in research topics such as Machine Learning, Computer Vision and Reinforcement Learning and shares these discoveries with other members of the team.
+
+
+
+The selected candidate should have a proven track record of meeting and exceeding customer expectations, successfully teaming cross-organizationally, consistently delivering on schedule, and a demonstrated desire to learn new technologies, concepts, and processes. Proactively seeks opportunities to broaden and deepen knowledge base and proficiencies.
+
+Seeks and participates in development opportunities above and beyond the required levels and mentors those with less experience through informal means. Networks successfully with a diverse technical population to solicit work to foster technical growth of the team. Will develop and refine demonstrations of new research as well as optimize and scale implementations of researched algorithms.
+DISL
+ABQS
+
+
+
+
+
+Qualifications
+
+Required Skills:
+Bachelors Degree and 2 years or more of related experience or 6 years of experience in lieu of degree; OR Masters Degree and 0 years related experience
+Proficient in at least 3 programming languages (such as Python or C)
+Proficient in Linux environments
+Experience in Machine Learning with an emphasis on research and development
+Experience with image processing and analysis
+Outstanding interpersonal and communication skills
+Can start uncleared but must be able to obtain SCI and/or Q Clearance
+
+
+ Desired Skills:
+Master's Degree in Computer Science
+Solid fundamentals in algorithms, math and probability theory
+Track record of translating ideas into prototypes quickly
+Experience with one or more of the following: Tensorflow, pytorch, keras, etc.
+Experience with Python
+
+
+Desired Qualifications
+
+
+
+
+
+Overview
+SAIC is a premier technology integrator, solving our nation's most complex modernization and systems engineering challenges across the defense, space, federal civilian, and intelligence markets. Our robust portfolio of offerings includes high-end solutions in systems engineering and integration; enterprise IT, including cloud services; cyber; software; advanced analytics and simulation; and training. We are a team of 23,000 strong driven by mission, united purpose, and inspired by opportunity. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $6.5 billion. For more information, visit saic.com. For information on the benefits SAIC offers, see Working at SAIC. EOE AA M/F/Vet/Disability"
+"1572882200-1761","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Data Scientist - Nationwide Opportunities","https://www.indeed.com/rc/clk?jk=318ff50c4d3ce5b9&fccid=fe2d21eef233e94a&vjs=3","Data Scientist - Nationwide Opportunities","Amazon Web Services, Inc.","3.6 out of 5","","","39,645","Amazon Web Services, Inc.39,645 reviews-New Mexico","A Bachelor or Masters Degree in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.) or equivalent experience4+ years of industry experience in predictive modeling, data science and analysisPrevious experience in a ML or data scientist role and a track record of building ML or DL modelsExperience using Python and/or RExperience using ML libraries, such as scikit-learn, caret, mlr, mllibExperience in writing and tuning SQLExperience with SparkMLExperience working with GPUs to develop modelExperience handling terabyte size datasetExperience using data visualization tools
+
+
+Excited by using massive amounts of data to develop Machine Learning (ML) and Deep Learning (DL) models? Want to help the largest global enterprises derive business value through the adoption of Artificial Intelligence (AI)? Eager to learn from many different enterprise’s use cases of AWS ML and DL? Zealous to be key part of Amazon, who has been investing in Machine Learning for decades, pioneering and shaping the world’s AI technology?
+
+
+
+At Amazon Web Services (AWS), we are helping large enterprises build ML and DL models on the AWS Cloud. We are applying predictive technology to large volumes of data and against a wide spectrum of problems. Our Professional Services organization works together with our AWS customers to address their business needs using AI.
+
+
+
+AWS Professional Services is a unique consulting team. We pride ourselves on being customer obsessed and highly focused on the AI enablement of our customers. If you have experience with AI, including building ML or DL models, we’d like to have you on our team. You will get to work with an innovative company, with great teammates, and have a lot of fun helping our customers.
+
+
+
+This role will focus specifically on AWS’ most complex and largest customers in the world to help solve a wide range of business problems. Consultants will provide deep and broad insight to customers and partners to help remove constraints that prevent them from leveraging AWS services to create strategic value.
+
+
+
+A successful candidate will be a person who enjoys diving deep into data, doing analysis, discovering root causes, and designing long-term solutions. It will be a person who likes to have fun, loves to learn, and wants to innovate in the world of AI.
+
+
+
+Major responsibilities include:
+
+Understand the customer’s business need and guide them to a solution using our AWS AI Services, AWS AI Platforms, AWS AI Frameworks, and AWS AI EC2 Instances .Assist customers by being able to deliver a ML / DL project from beginning to end, including understanding the business need, aggregating data, exploring data, building & validating predictive models, and deploying completed models to deliver business impact to the organization.Use Deep Learning frameworks like MXNet, Caffe 2, Tensorflow, Theano, CNTK, and Keras to help our customers build DL models.Use SparkML and Amazon Machine Learning (AML) to help our customers build ML models.Work with our Professional Services Big Data consultants to analyze, extract, normalize, and label relevant data.Work with our Professional Services DevOps consultants to help our customers operationalize models after they are built.Assist customers with identifying model drift and retraining models.Research and implement novel ML and DL approaches, including using FPGA.
+This is a customer facing role. You will be required to travel to client locations and deliver professional services when needed.
+
+
+
+Note: If you do not live in a market where we have an open Data Scientist position, please feel free to apply. Our Data Scientists can live in any location that has an AWS office.
+
+
+PhD in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.)4+ years of industry experience in predictive modeling and analysisSkills with programming languages, such as Java or C/C++Ability to develop experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relationsConsulting experience and track record of helping customers with their AI needsPublications or presentation in recognized Machine Learning, Deep Learning and Data Mining journals/conferencesExperience with AWS technologies like Redshift, S3, EC2, Data Pipeline, & EMRCombination of deep technical skills and business savvy enough to interface with all levels and disciplines within our customer’s organizationDemonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environmentExperience diving into data to discover hidden patternsAble to write production level code, which is well-written and explainable
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age."
+"1572882172-1748","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Statistician-A","https://www.indeed.com/rc/clk?jk=70df1a7c4559b317&fccid=09ed896583ff5570&vjs=3","Statistician-A","State of New Mexico","3.6 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","259","State of New Mexico259 reviews-Albuquerque, NM 87108","Salary
+$13.38 - $23.28 Hourly
+$27,832 - $48,428 Annually
+This position is a Pay Band 55
+
+Purpose of Position
+This position will be used to conduct ongoing recruitment and will remain open until position has been filled.
+Why does the job exist?
+The position is critical for statistical and analytical work to support research in the Economic Research & Policy Bureau (ERPB) and analysis of legislative requests. Applicant will maintain operational efficiencies and effectiveness of Electronic Data Interchange (EDI) services and is in charge of answering stakeholder data questions; collecting and analyzing inpatient data; and checking quality of other WCA data sources.
+How does it get done?
+Key responsibilities include: statistical coding and analysis, monitoring of data accuracy, reconciliation of docket and claims data; interaction with insurance carriers, self-insured employers and third party a administrators (TPA) by telephone, mail and email - dealing with employers by telephone and answering their questions ; interacting with staff of other bureaus (MIS, CoC) of the agency by meetings, emails, telephone calls, and cubicle/office visits.
+Who are the customers?
+The main customers are employers, (private, public, self-insured) workers, accident adjusters, third party administrators, attorneys, insurance agents and carriers, medical health care providers, and legislators, the NM Department of Finance and Administration (DFA), the NM Legislative Financial Committee (LFC), other legislative committees, and other workers¿ compensation stakeholders.
+Ideal Candidate
+The ideal candidate has the following preferred education and experience:
+
+
+
+Computer-aided statistical model building for forecasting;Statistical analysis of workplace injuries , claims and benefits using cross-sectional and time-series data;Experience using SPSS; Advanced knowledge of MS Access, Excel, and PowerPoint; Experience accessing Electronic Data
+ Interchange source data, and experience using Tableau software for developing and maintaining Tableau dashboards;
+
+Experience in database management, systems research, policy impact analysis, and cost and revenue forecasting.
+Minimum Qualification
+High School Diploma or Equivalency and two (2) years of experience in collecting and assisting in interpreting statistical data. Substitutions Apply. See Substitution Table below.
+Substitution Table
+These combinations of education and experience qualify you for the position:
+ Education Experience
+
+
+1 High School Diploma or Equivalent AND 2 years of experience
+
+2 Associate's degree or higher (Bachelor's, Master's) AND 0 years of experience
+
+
+Education and years of experience must be related to the purpose of the position.
+If Minimum Qualification requires a specific number of ""semester hours"" in a field (e.g. 6 semester hours in Accounting), applicants MUST have those semester hours in order to meet the minimum qualifications. No substitutions apply for semester hours.
+
+Employment Requirements
+Must possess and maintain a valid New Mexico Driver's License. Must possess and maintain a current Defensive Driving Course Certificate from the State of New Mexico or must pass and receive Defensive Driving Course Certification as a condition of continued employment.
+Working Conditions
+Work requires occasional driving; work is performed in an office setting with exposure to Visual/Video Display Terminal (VDT) and extensive personal computer and phone usage. Some sitting, standing, bending and reaching may be required. Some travel within and outside New Mexico; exposure to public. Occasional lifting up to 25 lbs
+Supplemental Information
+Benefits:
+Do you know what Total Compensation is? Click here
+
+Agency Contact Information: Richard Adu-Asamoah Email
+For information on Statutory Requirements for this position, click the Classification Description link on the job advertisement.
+
+Bargaining Unit Position
+This position is covered by a collective bargaining agreement and all terms/conditions of that agreement apply and must be adhered to."
+"1572882191-1757","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Data Scientist, Senior","https://www.indeed.com/rc/clk?jk=2788d3eb7a709605&fccid=4e041af1d0af1bc8&vjs=3","Data Scientist, Senior","Booz Allen Hamilton","3.9 out of 5","","","2,016","Booz Allen Hamilton2,016 reviews-Kirtland AFB, NM","The Challenge:
+Are you excited at the prospect of unlocking the secrets held by a data set? Are you fascinated by the possibilities presented by the IoT, machine learning, and artificial intelligence advances? In an increasingly connected world, massive amounts of structured and unstructured data open up new opportunities. As a data scientist, you can turn these complex data sets into useful information to solve global challenges. Across private and public sectors — from fraud detection, to cancer research, to national intelligence — you know the answers are in the data.
+We have an opportunity for you to use your leadership and analytical skills to improve proactive safety and mishap reduction. You’ll work closely with your customer to understand their questions and needs, then dig into their data-rich environment to find the pieces of their information puzzle. You’ll mentor teammates, develop algorithms, write scripts, build predictive analytics, use automation, apply machine learning, and use the right combination of tools and frameworks to turn that set of disparate data points into objective answers to help the Air Force client to make informed decisions. You’ll provide your customer with a deep understanding of their data, what it all means, and how they can use it. Join us as we use data science for good in proactive safety and mishap reduction.
+Empower change with us.
+Build Your Career:
+At Booz Allen, we know the power of analytics and we’re dedicated to helping you grow as a data analysis professional. When you join Booz Allen, you can expect:
+access to online and onsite training in data analysis and presentation methodologies, and tools like Hortonworks, Docker, Tableau, and Splunk
+a chance to change the world with the Data Science Bowl—the world’s premier data science for social good competition
+participation in partnerships with data science leaders, like our partnership with NVIDIA to deliver Deep Learning Institute (DLI) training to the federal government
+
+You’ll have access to a wealth of training resources through our Analytics University, an online learning portal specifically geared towards data science and analytics skills, where you can access more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and state-of-the-art tech from our in-house experts. Pursuing certifications? Take advantage of our tuition assistance, on-site bootcamps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want, as you chart your own course for success.
+You Have:Experience with text analytics using Natural Language Processing (NLP)Experience with problem formulation, data assessment, data preparation, and exploratory analysisExperience with building, training, deploying, and managing machine learning models, including both supervised and unsupervisedExperience with interpreting, visualizing, and explaining model outputs and methodological suitabilityExperience with Python or RAbility to work with software engineering to drive end-user solutionsAbility to work onsite at the client locationAbility to obtain a security clearanceMA or MS degree in Analytics, Data Science, Statistics, Mathematics, Technology, Science, or Engineering
+Nice If You Have:Experience with data mining and predictive modeling associated with a variety of data types, including time series, spatial point patterns, network or graph, text, and imagesExperience with designing and developing automated analytic software, techniques, and algorithmsExperience with presentation methodologies, and tools, including Hortonworks, Docker, Tableau, and SplunkKnowledge of probability and statistics, including applying statistical techniques to analyzing large and complex data setsPossession of excellent customer service skills
+Clearance:
+
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.
+We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change."
+"1572882135-1732","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Applied Scientist (Agronomy)","https://www.indeed.com/rc/clk?jk=4ef32d9f3b141546&fccid=004c7a087ec4c94b&vjs=3","Applied Scientist (Agronomy)","Descartes Labs","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","null","Descartes Labs-Santa Fe, NM 87501","With streamlined access to petabytes of science-ready geospatial data and the computing power to go with it, the Applied Science team at Descartes Labs is building a digital twin of the earth. We model our planet by combining sensor data with a mix of physical, statistical, and machine learning modeling approaches.
+
+
+We’re looking for agronomic data scientists to apply this data and computing power towards interesting agricultural applications at scale.
+Responsibilities
+Use our archive of satellite imagery, weather data, and other geospatial datasets to develop and build large-scale crop models
+Collaborate with product managers to develop new products, feature datasets, and capabilities relevant to the agriculture market
+Work with solutions managers to communicate progress to clients and translate the results of scientific analyses into actionable insights
+Actively participate as a member of a cross-disciplinary team, openly communicating your ideas, insights, and feedback and helping to continuously improve processes
+Required Skills & Experience
+BSc in a relevant scientific or quantitative field (e.g. agronomy, agricultural sciences, biostatistics)
+Demonstrated background developing statistical, machine learning, and/or simulation models for agricultural systems
+Proficiency in Python, or in another scientific programming language with the ability to quickly pick up new technical skills
+Experience working with remote sensing and geospatial data
+Strong problem solving skills, with the ability to research, develop, and implement solutions to novel problems
+Self-motivated and able to work independently as well as within a team
+Pluses
+Advanced degree (MS/PhD) in a relevant field
+Experience with remote sensing and/or climate data assimilation
+Familiarity with cloud-based and/or distributed computing"
+"1572882140-1734","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Data Science Specialist USA","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D35pONiEzCV0HOA1LSj07MBrUNmnAaSWLsWvroqamMmuv5sIOLoiF5i47oZbZSPWsTv5cOBBBEatGYG7q5LHJAcMJiXt0YcTvLLoCxWKbN0qg2SOXwLKJnv8xrLH0kVoFOICED7oue-pXfEOfWKll9C_pyaj_YhtYYdDubDxebIExWpwUMSIAp1vGpeEWkptsyJZfe4PUmyXzXptG87a1tyHHFkbc8xOQoWqAtnsjk9VdIRdDIOUL6mZ7lRjmuMlTrDOyLpRgDAsYyJMFGKeAxA8TgXboECeqMyiBEUEqHoooi0l8oxMZt_KVug80NgkMGZIEDDDQcJ4D7KYqQ1RlHWVZlJl9CvB3GDM2QFvXBqwJoKzGdoKxTSfC-l_Jh8tReapY9SXlXNoPYzSI5FqLA8y4ulw78dPWMdS5Fj2fNtl4a8No-nWajkW9XSkgicEVvisL8B5uK6sVfo0VdtdWjnfiHP5mCK9IuTGWTMF5p_qU0HxQW_EGqk8LQnzjqqhkrh-DzolT1BcH0LL44DNRFpIBMutMZJPQ=&p=3&fvj=0&vjs=3","Data Science Specialist USA","Mphasis","3.8 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","2,325","Mphasis2,325 reviews-United States","Note: This position is accepting applicants for- New York and Texas.
+Skills :
+Excellent knowledge of NLP and ML alogrithms.
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc
+Experience with common data science toolkits, such as R, Weka, NumPy, MatLab, etc {{depending on specific project requirements}}. Excellence in at least one of these is highly desirable
+Great communication skills
+Experience with data visualization tools, such as D3.js, GGplot, etc.
+Proficiency in using query languages such as SQL, Hive, Pig {{actual list depends on what you are currently using in your company}}
+Experience with NoSQL databases, such as MongoDB, Cassandra, HBase {{depending on project needs}}
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Qualification:
+TECH (Computer Science Engineering/ IT)/ MCA
+What’s in for you?
+At Mphasis, we promise you the perfect opportunity of building technical excellence, understand business performance and nuances, be abreast with the latest happenings in technology world and enjoy a satisfying work life balance.
+With the current opportunity, you will get to work with the team that has consistently been setting benchmarks for other deliveries in terms of delivery high CSATs, project completion on time and being one of the best teams to work for in the organization.
+You get an open and transparent culture along with freedom to experimentation and innovation"
+"1572882125-1728","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Deep Learning for Computational Imaging Postdoc","https://www.indeed.com/rc/clk?jk=70823e1920373d3a&fccid=58c52d580682c6ce&vjs=3","Deep Learning for Computational Imaging Postdoc","Los Alamos National Laboratory","4.2 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","185","Los Alamos National Laboratory185 reviews-Los Alamos, NM","What You Will Do
+Become part of a team that thrives on challenge, innovation, and mission-driven science. The Geophysics Group ( https://www.lanl.gov/org/ddste/aldcels/earth-environmental-sciences/geophysics/index.php ) in the Earth and Environmental Sciences ( https://ees.lanl.gov ) Division at Los Alamos National Laboratory ( https://www.lanl.gov/ )
+We have an immediate opening for a creative and resourceful postdoctoral researcher with strong computational skills and experience in imaging inverse problems and deep learning methods. We are seeking a highly-motivated individual to join a multidisciplinary research team consisting of machine learning scientists, computational scientists and domain experts to conduct cutting-edge machine learning research for computational imaging, with application to subsurface, material and other scientific domains.
+The Geophysics Group focuses on a broad array of energy, environmental and national security challenges with research into seismology, infrasound, ground-shock modeling, and acoustics to address critical needs in energy, seismic hazards, threat detection and reduction, earthquake prediction, and subsurface imaging.
+
+
+
+
+What You Need
+Minimum Job Requirements:
+Strong computational science and numerical optimization skills in particular, computational imaging and inverse problems
+Strong deep learning skills and practical experience in various neural network architectures (DNN, CNN, RNN/LSTM, GAN or other auto encoder)
+Practical experience with machine learning packages such as PyTorch, TensorFlow, Keras, etc.
+Code development and computational experience in using high-performance parallel computing resources
+Solid publication record in high-impact journals, top-tier machine learning and related conferences
+Excellent communication, writing and oral presentation skills, and
+Strong programming skills, in Python in particular.
+Desired Skills:
+Demonstrated ability to work creatively and independently and in a team environment.
+Ability to obtain DOE Q clearance.
+Education : A Ph.D. in Computer Sciences, Applied Math, Computational Sciences, Electrical Engineering or closely related field is required. The candidate must have completed all Ph.D. requirements by commencement of the appointment and be within 5 years of completion of the Ph.D.
+Notes to Applicants:
+In addition to submitting a CV, please submit a cover letter briefly addressing how you meet the job requirements and the desired skills. CV should include educational background with degree dates and GPAs with scale, experience and expertise, a list of peer-reviewed publications and conference presentations, competitive honors/awards, and contact information of four references.
+For further information, check out http://www.lanl.gov/careers/career-options/postdoctoral-research/postdoc-program/index.php . LANL offers an excellent working environment and competitive compensation and benefits package. Additional information about this position can be obtained by contacting Dr. Youzuo Lin ( ylin@lanl.gov ) and Dr. Brendt Wohlberg ( brendt@lanl.gov ). For general information about the application processes refer to the LANL Postdoctoral Program page.
+
+
+
+
+Additional Details:
+
+No Clearance: Position does not require a security clearance. Selected candidates will be subject to drug testing and other pre-employment background checks.
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing.
+
+Candidates may be considered for a Director's Postdoc Fellowship and outstanding candidates may be considered for the prestigious Richard P. Feynman, Darleane Christian Hoffman, J. Robert Oppenheimer, or Frederick Reines Distinguished Postdoc Fellowships .
+
+For general information go to Postdoc Program .
+
+Equal Opportunity:
+Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regards to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+
+
+
+Where You Will Work
+Located in northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. LANL enhances national security by ensuring the safety and reliability of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+The Earth and Environmental Sciences Division is a multi‐program research organization with core capabilities in Geology, Geochemistry, Geophysics, Geomaterials, Geography, Hydrology, Petroleum Engineering, Chemical Engineering, Acoustics, Atmospheric Science, Ecology, Environmental Science, Computational Science, and Geotechnical Engineering. Cross‐cutting capabilities and facilities span the needs for laboratory experimentation, ﬁeld deployments, computing, and data analytics. Capabilities in the Division are organized into groups, which consist of scientists, postdoctoral researchers, technicians, administrators, and students. Most programs within the Division feature multi‐discipline teams organized to solve complex problems of national importance.
+
+
+
+
+
+
+
+
+
+Appointment Type Postdoc
+
+
+Postdoc"
+"1572882156-1741","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Deep Learning Engineer For Autonomous Systems (Early/Mid-Car...","https://www.indeed.com/rc/clk?jk=b62d0ffab2c7b82c&fccid=6153cf878ee73d92&vjs=3","Deep Learning Engineer For Autonomous Systems (Early/Mid-Career)","Sandia National Laboratories","4.2 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","217","Sandia National Laboratories217 reviews-Albuquerque, NM 87123","What Your Job Will Be Like
+
+Are you passionate about your work and dream of utilizing state-of-the-art facilities to explore solutions? Do you want to join a diverse team that solves challenging issues of national interest?
+Sandia’s Autonomous Sensing and Controls department is seeking an engineer or computer scientist to incorporate Machine Learning/Deep Learning into autonomous sensors and control systems. The successful candidate will enable rapid deployment of machine learning/deep learning systems in various areas including object detection and multi-sensor classification and should be comfortable balancing the time and deliverable commitments of multiple projects simultaneously.
+The job requires clear understanding of mission from customers; definition of work scope and requirements; development of models, solutions, qualification, and documentation; communicating to stakeholders; and delivering products to customers. Our projects generally have generous budget but challenging allocation of staff and time. Collaboration and mentoring provide ample opportunity for technical and professional development.
+The engineer will collaborate with experts in sensors (mechanical, vibration/seismic, electromagnetic, optical/IR, radar/sonar, acoustic, etc); signal and image processing; algorithms; embedded systems; circuits; communication; navigation, guidance and control; within the Group. Within the Center, high-priority projects are in hypersonic flights. Sandia has experts in diverse and very broad engineering and scientific domains.
+
+Qualifications We Require
+
+BS in Computer Science, Computer Engineering, Electrical Engineering, Mathematics, or closely related STEM field.
+Advanced-level courses in Machine Learning and Deep Learning.
+Courses and solid knowledge of linear algebra and statistics.
+Deep knowledge of theoretical and practical aspects of machine learning and deep learning.
+Expertise in Python or similar high-level programming languages with appropriate machine learning, statistical, modeling, and engineering packages (such as TensorFlow and PyTorch).
+Ability to obtain and maintain a DOE Q-level security clearance.
+Qualifications We Desire
+
+Ideally, we would like to see your background include some of the following:
+(If Bachelor's degree is not in Computer Science), an MS or PhD in a relevant STEM field
+Professional/significant experience in one or more of the following fields:
+Machine Learning/Deep Learning;
+digital signal processing;
+image processing/machine vision;
+sensors; navigation, guidance and control,
+aerodynamics
+Proficiency in Linux; or High-Performance/Parallel/Vector Computing; or GPU
+Good programming and documentation practices, such as version control, commenting, adherence to the PEPs in Python, and an architecture-first mindset
+Experience in presentation of technical results, or proposal development
+Excellent written and oral communication skills
+Ability to work in an interdisciplinary teaming environment
+Ability to be self-directed and lead research projects
+(If hired with a PhD) strong publication record in a related field
+Strong organizational and critical thinking skills
+Active DoD TS or DOE Q Security Clearance.
+About Our Team
+
+Sandia’s Autonomous Sensing and Controls department delivers sensor systems and algorithms for: Detecting or classifying targets; detecting or classifying signals or images; navigating, guiding, and controlling flight bodies, including computing trajectories for hypersonic flights; classifying or segmenting images; and classifying 1-D time-series signals such as vibration, shock, or explosive sound. The department’s unique expertise enables its sensors and control systems to have small size, weight, and power (SWaP). Machine learning is reducing the SWaP even further. The sensors perform signal processing on-board in real time. They are networked and communicate with each other. They are autonomous, requiring no human intervention once deployed. The development encompasses concept, algorithm, prototyping, programming at all levels, testing and qualification, and hardware delivery. The customers are Defense (such as DTRA and DARPA) and Intelligence communities, Homeland Security, and also other groups within Sandia, especially the flight Navigation, Guidance and Control group. The department supports national security missions including nuclear proliferation detection, treaty monitoring, arms control, battlefield and other critical high-reliability missions. The department collaborates extensively with other groups at Sandia, such as Optics, Embedded Systems, Synthetic Aperture Radar, Weapon Components, Geoscience, Robotics, and Satellites. The department staff also perform fundamental research under Sandia’s Laboratory Directed Research and Development program, including the $35M/5yrs Autonomy For Hypersonics Mission Campaign. The department is part of the Autonomy Enterprise within Sandia’s Integrated Military System Development Center.
+
+
+
+About Sandia
+
+Sandia National Laboratories is the nation’s premier science and engineering lab for national security and technology innovation, with teams of specialists focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+Challenging work with amazing impact that contributes to security, peace, and freedom worldwide
+Extraordinary co-workers
+Some of the best tools, equipment, and research facilities in the world
+Career advancement and enrichment opportunities
+Flexible schedules, generous vacations, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid work/life balance*
+
+
+World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.govThese benefits vary by job classification.
+
+Security Clearance
+
+Sandia is required by DOE to conduct a pre-employment drug test and background review that includes checks of personal references, credit, law enforcement records, and employment/education verifications. Applicants for employment need to be able to obtain and maintain a DOE Q-level security clearance, which requires U.S. citizenship. If you hold more than one citizenship (i.e., of the U.S. and another country), your ability to obtain a security clearance may be impacted.
+Applicants offered employment with Sandia are subject to a federal background investigation to meet the requirements for access to classified information or matter if the duties of the position require a DOE security clearance. Substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause a clearance to be denied or terminated by DOE, resulting in the inability to perform the duties assigned and subsequent termination of employment.
+
+EEO
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status."
+"1572882145-1736","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Principal Statistician - TOP 5 GLOBAL PHARMA - 100% Remote","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AbOagL8aqw3GCN5XEneeaPzF3exNxv99E_w_iKdr54xjpYbURBUXtjXso-tjgagrVH8ApA29CXP3y6n8K8TgdDUaiEqlegRxJ7RLC-mtMXXq-HBPAL3XoFosgkVdGHn3mfiwVjbw5T5IVQQQtG000JP0HgLn2Xp_fwN4hx1FmsApF1EInDXFN4rPlrlNWVmoMKhXvTUBR-kneM3VqqrFWguBkTxSBzRH0-PUoNg1ih6Eu_IquSkM3QlWXr3PQ1SMdAuMZchus9vpVj3Au2KspsxYftBZcpPdD36ZAPJ3t-1BufOGFa5kk43MJ6vx3wHkyof_wuhG_3xa-GqG9rOaTvWaYO94uYzrxO85rxrrzEtB4qCW84zISF_4oWtqOMDgoKtZOfNmf2tbI2WxT1NTG8NRdEtKNezJ_SIIUZQkHQq27pABJWFoHSQ9-NznAnVxi_Nn63Jx-66FxXhMl9Dzzc&p=1&fvj=1&vjs=3","Principal Statistician - TOP 5 GLOBAL PHARMA - 100% Remote","i-Pharm Consulting","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","null","i-Pharm Consulting-United States","The Principal Statistician is responsible for developing statistical solutions to optimally support all phases of clinical trials and decision making. The successful candidate will function as the study statistician and be accountable for study level deliverables. The role will include key trial statistician responsibilities including statistical design, authoring of SAPs, and conducting just-in-time analyses and data exploration. Industry experience is preferred.Responsibilities:Act as the primary point of contact for all statistical analysis and development; working as a lead of both Statisticians and Programmers on study and database designDevelop guidelines for drafting SAPs and creating statistical models for study insightsReview and at times create specs for programmers following CDISC guidelinesProvides leadership to junior staff regarding synopsis, protocol, SAPs, clinical study report, and other regulatory submission documentsIdentify and interact with external statistical experts for issues related to study design, methodology and resultsStay up-to-date with Biomarker applications and statistical methodologyAbility to build powerful networks within and outside the company and use these relationships to achieve support for the planning and implementation of innovative approaches.Define strategy around managing CRO and vendor delivery timelineDevelop and automate statistical analysis and visualization tools for scientists and other statisticians.Qualifications:PhD in statistics or related field with preferably 1-3 years of relevant pharmaceutical research experience with high-dimensional biomarker data from clinical trials, or Masters in statistics or related field with at least 5 years of relevant experience and demonstrated potential of applying advanced statistical methods.Strong statistical foundation with a wide breadth of interest and expertise in classical and modern statistical and machine learning methods.Ability to apply innovative and fit-for-purpose statistical methods to the analysis of biomarker and high dimensional data from clinical trials.Strong programming skills in R, with demonstrated potential to develop and automate analysis scripts and tools for broader use.Excellent interpersonal and communication skills, with strong potential to build and maintaining strong working relationships.Ability to explain complex statistical concepts in simple and practical terms to non-statisticians.Job Type: Full-timeSalary: $130,000.00 to $150,000.00 /yearExperience:Oncology: 1 year (Preferred)Biostatistics: 7 years (Required)"
+"1572882202-1762","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Data Scientist","https://www.indeed.com/rc/clk?jk=fc2b22c87d1d6623&fccid=771cf0eccb88b5a7&vjs=3","Data Scientist","Beyond Finance","3 out of 5","","","9","Beyond Finance9 reviews-Santa Fe, NM","About Beyond Finance
+
+Beyond Finance is an exciting next generation Financial Services company with offices in Beverly MA and Houston TX. We provide financial products that are simple and transparent that aim to improve people's lives. As the consumer debt market continues to grow in the United States; we made it our objective to create a transparent and fair debt management services that are customized to the consumers' individual circumstances.
+
+
+
+Our Leadership team is comprised of individuals who have extensive experience and expertise in the financial services and debt management spheres. We are reinventing the market by investing in innovative technologies to better identify and target the market segment. At the same time, extensive market research also enables us to customize our products to better service our clients. Our workforce is a community made up of celebrated, diverse backgrounds working towards the common objective of developing something transformational for the debt settlement industry.
+
+
+
+As part of this effort, the company is creating a small team based in Santa Fe, NM focused on developing advanced analytics to improve our offering to consumers and streamline internal operations.
+
+
+
+About The Role
+
+Our ability to use data to define our strategy and direction will separate us from our competition. Through data mining, statistical analysis and experimental design, the Data Scientist is key in establishing the analytical data landscape and strategies that will drive BF's direction.
+
+
+
+Roles and Responsibilities:
+
+
+Work with various stakeholders such as senior management, data engineers, and marketing team on the formulation and application of new modeling solutions for a variety of business problems
+Manipulate large data sets, integrate diverse data sources, data types and data structures into solutions
+Develop analytical approaches to meet business requirements; this involves translating requests into use cases, test cases, preparation of training data sets and iterative algorithm development
+Work with cross-functional teams to develop ideas and execute business plans
+Develop solution prototypes and help integrate them with the product
+Work closely with software development teams to communicate requirements and ensure quality of end-to-end deliverables of developed analytical solutions
+Contribute to the team knowledge by keeping up with the state-of-the-art in machine learning applied to our domain
+
+Basic Qualifications and Education Requirements
+
+
+
+
+Strong quantitative analytical experience, including hands-on and background in using statistics, regression modeling, neural networks, decision trees, random forests, support vector machine, kernel-based methods, clustering and similar methods
+Proficient in programming with Python (at least 2 years' experience).
+Exposure to Advanced Analytics and Data Mining
+Strong SQL skills in Big Data environment a plus"
+"1572882211-1766","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","DATA SCIENTIST - EVIDENCE BASED CARE DESIGN","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B2LP6KtwgLMWcIJbzQK4y118hUYa2NHT0ELzb4aR6nDrO9_32R0LtatI_iRHNAWaYUNSKL7PaAHZ6ifOM8Hc3SlOOMDLPjfMU5a3468-CWWB7weN3oXJcXVvjd7jCiC16nrthGFtuQHGCyNQszg2fgVsoxW_yQq8CMuXZJNFqNy_PIlun8Dh1VzCOpr-d-nPOG94sYgCKjqBF2KOebslVKPkIi6TlqwfldqAffPIRQX8uFvTEuVGFwnl12TgSFtgwSXAGNHTZrt3DGHh4cbSBLXUhdPjs-dPp9E-s91t60UDNb2gqnYsfK8Yb4Oi4fKmC4BEvUvGzYOgQyZX3MhuelxpFIojVA46msMEK84q07F4Vv8Ql__vhmYP527-hoNM5PjZg6vZjHiCq7A6nKzG76hY4dQ2-E_ik=&p=0&fvj=0&vjs=3","DATA SCIENTIST - EVIDENCE BASED CARE DESIGN","Presbyterian Healthcare Services","3.5 out of 5","","","247","Presbyterian Healthcare Services247 reviews-Albuquerque, NM 87101","Overview
+
+
+Job Description Type of Opportunity: Full Time FTE: 1.000000 Exempt: Yes Work Schedule: Days
+
+
+
+
+Summary:Develop innovative & sophisticated analytics models in concert with other Directors within the Analytics Organization (AO) and in partnership with IT to support analytics/reporting needs of business leaders & fellow colleagues for the real time business decision making. Support optimization and enhancement of existing analytical models utilized by the PHS across the AO. Support development and testing of analytical prototypes and contribute to analytical solutions best practices. Develop the communication strategies and transitioning of solutions to other teams within the AO. Responsible for guiding, mentoring and supporting fellow junior scientist and other analytical talent across the AO.
+
+
+
+Responsibilities
+
+Responsibilities:*Provide support in creating/coding, designing and testing pilot data-driven predictive/descriptive analytical models for PHS.to solve business problems leveraging the latest and most appropriate technologies in statistical modeling and machine learning*Ability to work in a diverse team setting across the AO to develop, refine and scale data management and analytics procedures, systems, workflows, best practices and other issues.*Assist in risk identification and mitigation planning and communicate to analytical senior leadership of any issues/escalations & risks*Support management of multi-tasking, achieving milestones, deadlines, and maintaining customer relationships*Support and assist healthcare reporting/analytics system implementations throughout the project life-cycle, performing workflow analysis, testing, training, go-live, system upgrades and issues management in partnership with IT *Ability and experience to deal with very granular data available through various data storage platform (e.g., Hadoop) and summarize, interpret and translate the findings to the leadership promoting data-driven strategic decision making*Design and test structured data and algorithms to support clinical, operational and financial data analysis using advanced data-driven analytical methods from statistics, data mining, econometrics, and operations research*Design models for investigations of various acute/chronic clinical and/or operational and/or financial areas, including hypotheses generation and creating an analysis plan with appropriate primary and secondary data required, and evaluate results of the analysis and interpret conclusions, taking into consideration bias/data limitations as well as performing any specialized analysis required*Create and test optimization algorithms, forecasting and predictive models for patient level outcomes, utilization management, and overall medical services*Support design, build and test of population scoring, stratification and segmentation based on predicted risk of adverse utilization/clinical and financial outcomes*Synthesize findings and conclusions including efficacy of existing programs as well as incremental impact of new care inventions and interventions; design and institute appropriate metrics to assess progress vs. projected impact.*Routinize advanced analytical and reporting methods and techniques for broader use of the AO community*Work with large and complex datasets to derive and validate predictive models across clinical, operational and financial areas*Collaborate and partner with management, project managers, and IT to identify cases that can benefit from predictive analytics and other advanced statistical techniques*Visualize, interpret, report, and communicate data findings creatively in a various formats and audiences*Support advanced analytical and data mining efforts which could include but not limited to clustering, segmentation, logistic and multivariate regression, decision/CART trees, neural networks, time-series analysis, sentiment analysis, topic modeling, random forests, and Bayesian analysis *Support collaboration with other analytics stakeholder to define, gather requirements and build a pilot prototype BI tools*Provide support in designing and development of reusable analytical assets (data structures, code, solutions); test and improvise improvements to existing assets; and conduct evaluation of the suitability and value of potential new assets*Assist in developing training material and provide hands-on mentoring to analytical talent on the appropriate use and interpretation of new analytical models, integration of these models into existing business analyses as well as assure, maintain and improve efficiency and quality; validate work product of peers across the AO*Assist with the preparation of documents/publications and presentation materials describing analytic methods, observations and findings in the AO area *Contribute towards and assist Informaticists leadership in developing a year-end value story to demonstrate value of the team and their contribution to progress towards the AOs and PHSs goals.
+
+
+
+Qualifications
+
+
+Other information:Bachelors degree in an econometrics, physics, biostatistics, computer science, applied mathematics, engineering or any other quantitative related subject area. A Masters or a Ph.D. is highly preferred. Four or more years of related business intelligence, statistical/mathematical, predictive modeling along with the business strategy experience required. Understanding of natural language processing, machine learning, conceptual modelling and hypothesis testing as well as relational database management systems (Oracle, Teradata, SQL Server, DB2 etc.) Knowledge of healthcare industry and healthcare information standards such as HL7, LOINC, FHIR, ICD 9/10 and CPT codes, industry standard groupers (e.g., ETGs, DRGs, DCGs, etc.) as well as of the health care delivery system processes. Experience in big data technologies such as Hadoop, Spark, Kafka, Storm, R, Python, SQL, no-SQL databases, database analytics and graph databases is a PLUS. Adept in using BI tools (e.g., Business Objects/BO, Cognos), data visualizations tools (e.g., Tableau), statistical software such as SAS and general health service research and reporting/analytics. Working knowledge of extract transform and loading (ETL), data cleaning, data normalization/mapping and business process management (BPM) is expected. Experience in mathematical modeling skills including but not limited to classification, regression, survival analysis, recommender systems, experimentation systems (A/B testing), hypothesis testing and supporting development of mathematical algorithms.
+
+
+
+
+Preferred Qualifications:
+Evidence based care work
+Clinical analytics background
+Experience with Epic
+Statistical analysis background
+Experience with SAS, R, Python, Tableau
+Benefits
+
+
+Benefits Benefits are effective day-one (for .45 FTE and above) and include:
+Competitive salaries
+Full medical, dental and vision insurance
+Flexible spending accounts (FSAs)
+Free wellness programs
+Paid time off (PTO)
+Retirement plans, including matching employer contributions
+Continuing education and career development opportunities
+Life insurance and short/long term disability programs
+About Us Presbyterian Healthcare Services is a locally owned, not-for-profit healthcare system of nine hospitals, a statewide health plan and a growing multi-specialty medical group. Founded in New Mexico in 1908, it is the state's largest private employer with approximately 11,000 employees.
+
+
+
+
+Presbyterian's story is really the story of the remarkable people who have chosen to work here. Starting with Reverend Cooper who began our journey in 1908, the hard work of thousands of physicians, employees, board members, and other volunteers brought Presbyterian from a tiny tuberculosis sanatorium to a statewide healthcare system, serving more than 700,000 New Mexicans. We are part of New Mexico's history - and committed to its future. That is why we will continue to work just as hard and care just as deeply to serve New Mexico for years to come. About New Mexico New Mexico's unique blend of Spanish, Mexican and Native American influences contribute to a culturally rich lifestyle. Add in Albuquerque's International Balloon Fiesta, Los Alamos' nuclear scientists, Roswell's visitors from outer space, and Santa Fe's artists, and you get an eclectic mix of people, places and experiences that make this state great. Cities in New Mexico are continually ranked among the nation's best places to work and live by Forbes magazine, Kiplinger's Personal Finance, and other corporate and government relocation managers like Worldwide ERC. New Mexico offers endless recreational opportunities to explore, and enjoy an active lifestyle. Venture off the beaten path, challenge your body in the elements, or open yourself up to the expansive sky. From hiking, golfing and biking to skiing, snowboarding and boating, it's all available among our beautiful wonders of the west. AA/EOE/VET/DISABLED. PHS is a drug-free and tobacco-free employer with smoke free campuses.
+
+
+
+
+AD123
+
+
+
+
+#CB"
+"1572882159-1742","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Computer Vision and Machine Learning Postdoc","https://www.indeed.com/rc/clk?jk=66f59e3085e615d1&fccid=58c52d580682c6ce&vjs=3","Computer Vision and Machine Learning Postdoc","Los Alamos National Laboratory","4.2 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","185","Los Alamos National Laboratory185 reviews-Los Alamos, NM","What You Will Do
+The Information Sciences Group (CCS-3) at Los Alamos National Laboratory (LANL) has an opening for an outstanding postdoctoral research associate in the areas of computer vision and machine learning for technical images. Computer vision, especially when combined with machine learning methods, has dramatically improved the ability to detect objects in images and semantically segment images for scene understanding. However, these advances have not yet automated the understanding of information contained in hand-drawn figures, technical diagrams, mathematical equations, data plots, and other images conveying technical information, because those types of images contain much less information compared with natural images.
+
+A successful candidate will engage in two or more of the following focus areas:
+1) Develop computer vision algorithms for extracting information from drawings, technical diagrams and scientific plots.
+2) Develop computer vision algorithms for shape matching across a wide variety of image types including photographs, drawings, diagrams, scanned historic documents, etc.
+3) Develop computer vision and machine learning algorithms for image analysis (classification, object detection, segmentation, image retrieval) that require very little or no labeled training data (zero-shot, one-shot, and transfer learning; or domain adaptation); and allow end-users to quickly customize machine learning models to novel problems (model selection, interactive learning, and workflow automation).
+
+
+
+
+
+What You Need
+Minimum Job Requirements:
+
+· Research-level expertise in one or more of the above focus areas
+· Demonstrated ability to publish research in top peer-reviewed journals or conference proceedings
+· Strong programming skills
+
+Desired Skills:
+· Research-level expertise in two or more of the above focus areas
+· Research experience in using topological graphs for image analysis
+· Demonstrated ability to work in interdisciplinary project teams and learn about other fields
+· Active Q clearance, or alternatively the ability to obtain a Q clearance
+
+Education:
+Ph.D. in computer science, computer vision, machine learning, imaging science, mathematics, electrical engineering, statistics, data science, or a closely related discipline completed within the past five years or to be completed soon prior to employment.
+
+Notes to Applicants:
+In addition to submitting a CV, applicants must include a cover letter describing their research interests.
+
+Postdoctoral appointments are for two years, with the possibility of a third year extension.
+
+
+
+
+Additional Details:
+
+Position does not require a security clearance. Selected candidates will be subject to drug testing and other pre-employment background checks.
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing.
+
+Candidates may be considered for a Director's Postdoc Fellowship and outstanding candidates may be considered for the prestigious Richard P. Feynman, Darleane Christian Hoffman, J. Robert Oppenheimer, or Frederick Reines Distinguished Postdoc Fellowships .
+
+For general information go to Postdoc Program .
+
+Equal Opportunity:
+Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regards to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+
+
+
+Where You Will Work
+
+Located in northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. LANL enhances national security by ensuring the safety and reliability of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+
+
+
+
+
+
+
+
+Appointment Type Postdoc
+
+
+Postdoc"
+"1572882152-1739","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Principal Statistician - TOP 5 GLOBAL PHARMA - 100% Remote","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AbOagL8aqw3GCN5XEneeaPzF3exNxv99E_w_iKdr54xjpYbURBUXtjXso-tjgagrVH8ApA29CXP3y6n8K8TgdDUaiEqlegRxJ7RLC-mtMXXq-HBPAL3XoFosgkVdGHn3mfiwVjbw5T5IVQQQtG000JP0HgLn2Xp_fP11CJOkx-e7fmPim4c2iX5IelfJrQogxjq7pWNYWssME2Hl_N1UsroHQaJygJHSS8TumoXrNXXOPSAWo0rBl2-x_6L8nwZ0Ji7RoV57YZ6F4HXvSKqrgG9nXxyjFH2JkzVmRwGJSv6fLsAp-ayNU0eTT8yO3igUKmEKXoqvNKeaKTggHrEi919dMZoK44mrH8Mc6zJCw5AKX8Zqsbl9XQZC1gAr7Ik80yCn1RBsmApLWmF8vkKpvo88pAZJJDB-SPo9-d-4yNffWeS7y9ajMPGSnBm_-MZNdNMj_FR0w4HxdP7Vz9Wow_&p=13&fvj=1&vjs=3","Principal Statistician - TOP 5 GLOBAL PHARMA - 100% Remote","i-Pharm Consulting","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","null","i-Pharm Consulting-United States","The Principal Statistician is responsible for developing statistical solutions to optimally support all phases of clinical trials and decision making. The successful candidate will function as the study statistician and be accountable for study level deliverables. The role will include key trial statistician responsibilities including statistical design, authoring of SAPs, and conducting just-in-time analyses and data exploration. Industry experience is preferred.Responsibilities:Act as the primary point of contact for all statistical analysis and development; working as a lead of both Statisticians and Programmers on study and database designDevelop guidelines for drafting SAPs and creating statistical models for study insightsReview and at times create specs for programmers following CDISC guidelinesProvides leadership to junior staff regarding synopsis, protocol, SAPs, clinical study report, and other regulatory submission documentsIdentify and interact with external statistical experts for issues related to study design, methodology and resultsStay up-to-date with Biomarker applications and statistical methodologyAbility to build powerful networks within and outside the company and use these relationships to achieve support for the planning and implementation of innovative approaches.Define strategy around managing CRO and vendor delivery timelineDevelop and automate statistical analysis and visualization tools for scientists and other statisticians.Qualifications:PhD in statistics or related field with preferably 1-3 years of relevant pharmaceutical research experience with high-dimensional biomarker data from clinical trials, or Masters in statistics or related field with at least 5 years of relevant experience and demonstrated potential of applying advanced statistical methods.Strong statistical foundation with a wide breadth of interest and expertise in classical and modern statistical and machine learning methods.Ability to apply innovative and fit-for-purpose statistical methods to the analysis of biomarker and high dimensional data from clinical trials.Strong programming skills in R, with demonstrated potential to develop and automate analysis scripts and tools for broader use.Excellent interpersonal and communication skills, with strong potential to build and maintaining strong working relationships.Ability to explain complex statistical concepts in simple and practical terms to non-statisticians.Job Type: Full-timeSalary: $130,000.00 to $150,000.00 /yearExperience:Oncology: 1 year (Preferred)Biostatistics: 7 years (Required)"
+"1572882128-1729","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Deep Learning Graduate Research Assistant","https://www.indeed.com/rc/clk?jk=147e3c371d2b46ab&fccid=58c52d580682c6ce&vjs=3","Deep Learning Graduate Research Assistant","Los Alamos National Laboratory","4.2 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","185","Los Alamos National Laboratory185 reviews-Los Alamos, NM","What You Will Do
+The T-5 Applied Mathematics and Plasma Physics Group in Theoretical Division at Los Alamos National Laboratory (LANL) has an immediate opening for a creative and resourceful Graduate Research Associate with strong deep learning, programming and computational science skills. As a Research Associate, the selected candidate will develop novel deep learning techniques and apply them to various applications such as image analysis, time-series classification, and event detection. The term of the appointment is 1 to 2 years; depending on the performance and funding availability there are opportunities to extend the appointment by transitioning to other types of LANL positions.
+The Research Associate program offers graduate interns the opportunity to participate in the GRA program after receiving a Master's degree. This category applies to those interns who have been awarded an advanced degree within the past three years. Research Associate interns may remain in this category for up to two years. We offer competitive compensation and value the contributions of all team members. Be a part of our very important national security mission by joining the Laboratory today!
+
+
+
+
+What You Need
+Minimum Job Requirements:
+Record of proficiency in deep learning frameworks such as PyTorch, TensorFlow, Caffe2, or Keras
+Record of proficiency in Python
+Demonstrated ability to work independently and as a member of a team, with good communication skills.
+Demonstrated ability to quickly learn new skills and knowledge in a fast-paced research environment
+Experience in application and development of imagery analysis, computer vision, and signal processing applications
+Can provide a sample code of previous work
+Publication record in high-impact journals, top-tier machine learning and related conferences would be a significant advantage
+Education:
+· Completion of a Master’s degree in Computer Science, Electrical Engineering, Applied Mathematics, Computational Sciences, or a related field within the past 3 years. (Ph.D students without a Master degree are qualified for this position.)
+· Cumulative GPA of at least a 3.2 is required.
+
+Notes to Applicants:
+As part of the application process, please upload your transcripts, cover letter, and resume. In addition to applying on-line, please send a cover letter detailing qualifications, a curriculum vitae/resume, and names of three references to Dr. Youzuo Lin (ylin@lanl.gov) and Dr. Brendt Wohlberg (brendt@lanl.gov).
+
+
+
+
+Additional Details:
+
+No Clearance: Position does not require a security clearance. Selected candidates will be subject to drug testing and other pre-employment background checks.
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing
+
+For general program information refer to the Student Programs web page.
+Equal Opportunity:
+Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regards to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+
+
+
+Where You Will Work
+
+Located in northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. LANL enhances national security by ensuring the safety and reliability of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+The Theoretical D ivision contributes to computer modeling, and the tests and applications that result from modeling help define new directions in basic research. Our strong interdisciplinary teaming and unique research facilities allow us to develop solutions to complex problems, and to support partners and collaborators, all with the goal of strengthening national security and making a safer world.
+
+
+
+
+
+Follow the instructions below if you have ever had an employee Z number, been a contractor, or received Los Alamos Lab insurance coverage to activate your account:
+
+· Select the Click Here button if you have been employed with the Lab or received insurance coverage .
+· Please enter only your first and last name and current email address (an email with your validation code will be sent to you) to activate the account currently in our system.
+· Enter your validation code as described in the email you receive and complete the 3-page registration form. Your account is now active and you can apply for jobs or save to your basket. Important : Enter the validation code within 15 days to activate your account or your account will be deactivated.
+Follow the instructions below if you if you have never been employed with the Lab or received insurance coverage to create an account:
+· Select the Register button if you have never been employed with the Lab or received insurance coverage to Create an Account.
+· From here, you will establish an account with username and password.
+
+How to Apply:
+Login to Your Account to Complete the Application Process
+· Click the Vacancy Name number (in blue) to view any job’s details.
+· Click Apply or Add to Basket to apply later. Tip : To apply for a job or save your basket, you must have a LANL jobs account.
+If you experience any technical issues, please email applyhelp@lanl.gov for assistance.
+
+
+
+
+Appointment Type GRA
+
+
+GRA"
+"1572882209-1765","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Data Science Specialist USA","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D35pONiEzCV0HOA1LSj07MBrUNmnAaSWLsWvroqamMmuv5sIOLoiF5i47oZbZSPWsTv5cOBBBEatGYG7q5LHJAcMJiXt0YcTvLLoCxWKbN0qg2SOXwLKJnv8xrLH0kVoFOICED7oue-pXfEOfWKll9neiV04euzh-krbKPWq2jiFdD4hA8NZ5llIWArbBliQ9jl0RcrFnj0qU9agYCUiWITjcl8r5brK3ap4oc5ojNzrlBN9UHqdbADvprj-95iT3GIv63AwfjhnstHjl4GGBl4a0vKAJOIHUHG4D7CHVTB2goe5fLTgASszOlyrHsC3D8rWFE4Vi8nzlkLGh6SA70vitYmaVyWih8nwd92lHVUpMLjCPs0zX1LWcTM97M9hVpWpKaaRZNkSLW3Zs8VBP6FaK11_axy6xdNkVQVGLIgNv8fZyIG54ItvLOz46tPz3k2xUEELlxbApTjkY_axArgDGV8J3DTj5lu4NaOshnd7nh1zonMM7u284wyMb0X5fVWHZ5CN1stX0uTvBoB3KDQX0e_edOLz8=&p=1&fvj=0&vjs=3","Data Science Specialist USA","Mphasis","3.8 out of 5","","","2,325","Mphasis2,325 reviews-United States","Note: This position is accepting applicants for- New York and Texas.
+Skills :
+Excellent knowledge of NLP and ML alogrithms.
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc
+Experience with common data science toolkits, such as R, Weka, NumPy, MatLab, etc {{depending on specific project requirements}}. Excellence in at least one of these is highly desirable
+Great communication skills
+Experience with data visualization tools, such as D3.js, GGplot, etc.
+Proficiency in using query languages such as SQL, Hive, Pig {{actual list depends on what you are currently using in your company}}
+Experience with NoSQL databases, such as MongoDB, Cassandra, HBase {{depending on project needs}}
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Qualification:
+TECH (Computer Science Engineering/ IT)/ MCA
+What’s in for you?
+At Mphasis, we promise you the perfect opportunity of building technical excellence, understand business performance and nuances, be abreast with the latest happenings in technology world and enjoy a satisfying work life balance.
+With the current opportunity, you will get to work with the team that has consistently been setting benchmarks for other deliveries in terms of delivery high CSATs, project completion on time and being one of the best teams to work for in the organization.
+You get an open and transparent culture along with freedom to experimentation and innovation"
+"1572882174-1749","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Data Science Systems Researcher (Experienced)","https://www.indeed.com/rc/clk?jk=9019665e71983fcb&fccid=6153cf878ee73d92&vjs=3","Data Science Systems Researcher (Experienced)","Sandia National Laboratories","4.2 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","217","Sandia National Laboratories217 reviews-Albuquerque, NM 87123","What Your Job Will Be Like
+
+We are seeking a Data Science Systems Researcher (R&D S&E, Systems Research and Analysis) to join our team.
+
+Do you want to be a member of a high performing team? You can join our dynamic team to use your experience to conduct innovative data science research and development. In this role, you will have the opportunity to develop cutting-edge solutions by using state-of-the-art equipment and facilities to explore unique solutions to complex issues. Working within a creative and collaborative environment, you will address national security challenges through research and development in data science, geospatial science, computer science, complex systems, autonomous systems, artificial intelligence, and machine learning.
+
+
+On any given day, you may be called on to:
+Brainstorm new approaches to difficult problems
+Publish work results in a technical journal or conference
+Analyze and integrate information from multiple sources, applying and combining innovative techniques
+Discover and develop novel geospatial data algorithms and manipulation techniques
+Advance the state-of-the-art in model validation
+Qualifications We Require
+
+Bachelor’s degree in a relevant technical discipline and master’s degree in Computer Science, Mathematics, Geological Science, Statistics, or other relevant discipline plus one year or more of experience
+Experience in computer programming languages such as Java, C++, or Python
+DOE Q security clearance required
+Qualifications We Desire
+
+PhD in Computer Science, Mathematics, Geological Science, Statistics, or relevant discipline
+Demonstrated ability to conduct research and development
+Experience with remote sensing, geospatial data and formats, or geospatial sciences
+Experience with complex algorithm development, modeling, and simulation
+Demonstrated software development skills and familiarity with modern software development methodologies, practices, and tools
+Experience working successfully with researchers, analysts, and other software engineers
+Strong mathematical background
+Excellent communication skills with the ability to develop and present technical ideas and results
+Ability to obtain and maintain an SCI-level clearance
+
+About Our Team
+
+The Resilience and Regulatory Effects Department researches, develops, and applies cutting edge analysis methodologies to create science-based regulatory policy solutions. We develop frameworks in which proposed options can be compared and prioritized to achieve system resilience for national critical resources. These complex problems with national significance are addressed by using a multi-disciplinary approach. The department's diversity includes staff with advanced degrees in economics, modeling & analysis, chemistry, mathematics, physics, geophysics, social science and operations research. We additionally partner with experts in other fields internally and externally.
+
+About Sandia
+
+Sandia National Laboratories is the nation’s premier science and engineering lab for national security and technology innovation, with teams of specialists focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+Challenging work with amazing impact that contributes to security, peace, and freedom worldwide
+Extraordinary co-workers
+Some of the best tools, equipment, and research facilities in the world
+Career advancement and enrichment opportunities
+Flexible schedules, generous vacations, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid work/life balance*
+
+
+World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.govThese benefits vary by job classification.
+
+Security Clearance
+
+Position requires a Department of Energy (DOE) Q security clearance to start.
+Sandia is required by DOE directive to conduct a pre-employment drug test and background review that includes checks of personal references, credit, law enforcement records, and employment/education verifications. Applicants for employment need to be able to maintain a DOE Q-level security clearance, which requires U.S. citizenship. If you hold more than one citizenship (i.e., of the U.S. and another country), your ability to obtain a security clearance may be impacted.
+Applicants offered employment with Sandia are subject to a federal background investigation to meet the requirements for access to classified information or matter if the duties of the position require a DOE security clearance. Substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause a clearance to be denied or terminated by DOE, resulting in the inability to perform the duties assigned and subsequent termination of employment.
+
+EEO
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status."
+"1572882187-1755","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Ph.D. Statistician","https://www.indeed.com/rc/clk?jk=d54d906535ccd7c6&fccid=58c52d580682c6ce&vjs=3","Ph.D. Statistician","Los Alamos National Laboratory","4.2 out of 5","","","185","Los Alamos National Laboratory185 reviews-Los Alamos, NM","What You Will Do
+
+The CCS-6 Statistical Sciences Group at Los Alamos National Laboratory is looking for excellent candidates who seek a challenging career in research, development, and collaborative application of statistical methods. Successful candidates will have extensive experience developing statistical methodology motivated by multidisciplinary collaborations, and proven statistical research ability demonstrated by journal publications, technical reports, and conference presentations, and international reputation in statistics. Statisticians in the Statistical Sciences Group work in partnership with world-leading scientists in a wide range of science, technology, and engineering areas such as materials science and advanced manufacturing, environmental modeling, next-generation energy science and technology, space and planetary systems science, cosmology, epidemiology and public health, cyber security and network science, image and multi-source signals analysis, future computing, and analysis of complex engineered systems including the nuclear stockpile. High performance computing and simulation play a large and growing role in many of these disciplines and applications.
+
+
+
+
+What You Need
+
+Minimum Job Requirements:
+Ph.D. in Statistics, or equivalent experience and background demonstrated by publications and project roles
+Knowledge of multiple areas of statistical sciences
+Ability to lead statistical research and advanced statistical analyses
+Demonstrated willingness and ability to work in a collaborative, multidisciplinary, scientific environment and contribute to diverse application areas
+Statistical research record demonstrated by journal publications and technical reports, showing significant experience developing and implementing statistical methods
+Strong statistical computing skills including experience using software for statistical programming and advanced statistical analysis (e.g., R, MATLAB)
+Ability to obtain a Q clearance
+Desired Skills
+Experience with statistical applications in the physical and engineering sciences
+Experience with advanced statistical computing, including distributed and shared memory parallel programming, and familiarity with scientific computing (e.g., C/C++, Fortran, Python)
+Record of mentoring activities for students and early career statisticians
+Education Required: Ph.D. in Statistics, or equivalent experience and background demonstrated by publications and project roles.
+
+Notes to Applicants
+Please include both a CV and a cover letter in your application in order to be considered.
+
+
+
+
+Additional Details:
+
+Clearance: Q (Position will be cleared to this level). Applicants selected will be subject to a Federal background investigation and must meet eligibility requirements* for access to classified matter.
+
+*Eligibility requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472.2 for additional information.
+
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing.
+
+Regular position: Term status Laboratory employees applying for regular-status positions are converted to regular status.
+
+Internal Applicants: Please refer to Laboratory policy P701 for applicant eligibility.
+
+Equal Opportunity: Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regards to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+
+
+
+Where You Will Work
+
+Located in northern New Mexico, Los Alamos National Laboratory is a multidisciplinary research institution engaged in strategic science on behalf of national and global security. Our workforce enjoys a collegial work environment focused on creative problem solving. We are committed to work-life balance, as well as both personal and professional growth. We consider our creative and dedicated scientific professionals to be our greatest assets, and we take pride in cultivating their talents, supporting their efforts, and enabling their successes. Los Alamos, New Mexico, enjoys excellent weather, clean air, and outstanding public schools. Los Alamos is a safe, low-crime, family-oriented community with concerts and events as well as quick travel to many top ski resorts, scenic hiking and biking trails, and easy access to a range of recreational pursuits. Many employees enjoy the proximity to the nearby state capital, Santa Fe, which is known for world-class restaurants, art galleries, opera, and cultural events.
+
+Statisticians in the CCS-6 Statistical Sciences group work in partnership with world-leading scientists in a wide range of science, technology, and engineering domains, contributing to novel and high-impact projects. The group was formed in 1967 and includes ~25 Ph.D. statisticians, including several ASA fellows, as well as supporting personnel, visiting faculty, students, and postdocs. The group is recognized for research and applications in many areas of statistical methodology, including Bayesian methods, validation and uncertainty quantification of computer models, design and analysis of experiments, reliability, sample planning, analysis of measurement systems, Monte Carlo and computer-intensive methods, spatial modeling, statistical computation, statistical graphics and visualization, and statistical learning.
+
+The CCS-6 group staff profiles can be explored at stat.lanl.gov
+
+
+
+
+
+
+
+
+
+Appointment Type Regular
+
+
+Regular"
+"1572882176-1750","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Statistician","https://www.indeed.com/rc/clk?jk=843dbc587f3b303d&fccid=2f87a7abe4cc3c5b&vjs=3","Statistician","University of New Mexico","4.1 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","450","University of New Mexico450 reviews-Albuquerque, NM","The Department of Neurology seeks to recruit a Statistician to provide a wide range of advanced statistical expertise, guidance, and support for programmatic assessment as well as the reporting of research statistics. This position supports the department and investigators engaged in research within basic sciences and clinical research science. This individual will work directly with the department Chair and Executive Leadership in the design, development, and reporting of statistics, and responds to a broad range of statistical issues arising in a variety of settings.
+See the Position Description for additional information.
+
+Conditions of Employment
+
+
+Minimum Qualifications
+Bachelor's degree; at least 1 year of experience directly related to the duties and responsibilities specified.
+Completed degree(s) from an accredited institution that are above the minimum education requirement may be substituted for experience on a year for year basis.
+
+Preferred Qualifications
+Preferred Qualifications:
+
+
+Strong interpersonal and communication skills
+Ability to work effectively in a team environment
+Ability to present statistical data and reporting to a wide range of audiences
+Experience working in a health related field
+Experience working in an education related field
+Knowledge of FERPA policies and procedures
+Experience with protected health information and HIPAA"
+"1572882189-1756","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Sr Statistician","https://www.indeed.com/rc/clk?jk=53dcecda92f7b05a&fccid=2f87a7abe4cc3c5b&vjs=3","Sr Statistician","University of New Mexico","4.1 out of 5","","","450","University of New Mexico450 reviews-Albuquerque, NM","The College of Pharmacy seeks to recruit a Sr. Statistician to provide a wide range of advanced statistical expertise, guidance, and support for programmatic assessment as well as the reporting of research statistics. This position supports the College and investigators engaged in research within the pharmaceutical, social/behavioral/administrative, and clinical sciences. This individual will work with College Faculty, Staff, and Executive Leadership in the design, development, and reporting of statistics, and responds to a broad range of statistical issues arising in a variety of settings.
+Duties and Responsibilities:
+Participates in the design, analysis, and reporting of research statistics; provides consultation to Faculty and Staff on experimental design, and statistical research approaches, requirements, and scientific standards.
+Works with Faculty and Staff to formalize analysis plans and reporting specifications; advises as to choice of statistical analysis strategies, reliability of measurements and identifiability of models, and interpretation and presentation of statistical results.
+Provides statistical and data management support for ongoing programmatic assessment for the College.
+Plans and documents computer data file structure; develops, programs, manages, and maintains complex statistical databases; performs quality control and supervises data entry.
+Uses a variety of advanced statistical software, methods, and techniques to gather, analyze, and interpret data to derive useful information; advises and assists in the development of inferences and conclusions, as appropriate.
+Develops enhancements to statistical software, as appropriate, by programming new techniques; maintains knowledge of current and emerging trends in statistical analysis methodology.
+Prepares a variety of comprehensive statistical reports according to presentation requirements; participates in report and manuscript preparation, to include preparation of data summaries and statistical results, for publication.
+Oversees and coordinates the work of staff, and/or students, as appropriate to the position, on a project, site, or operational basis.
+Performs miscellaneous job related duties as assigned.
+Knowledge, Skills and Abilities Required:
+Knowledge of scientific approach and methodologies.
+Knowledge and understanding of the principles, concepts, methods, and standards of statistical research.
+Ability to apply a range of advanced statistical techniques in support of scientific research studies and/or programmatic assessment.
+Ability to process computer data and to format and generate reports.
+Ability to consult with faculty and staff, interpret research requirements, and determine statistical analysis strategies.
+Ability to plan, create, program and manage complex statistical computer databases.
+Knowledge of programming logic and codes.
+Ability to supervise and train employees, to include organizing, prioritizing, and scheduling work assignments.
+Ability to analyze, interpret, and draw conclusions from complex statistical information.
+Skills in the use of database management, word processing, spreadsheet, and/or presentation software.
+Knowledge of current and emerging trends in advanced statistical analysis for scientific application.
+Knowledge of SAS programming, R, Stata, and/or other statistical software.
+Knowledge of scientific reporting and ability to assist with manuscript preparation requirements and standards.
+
+
+
+See the Position Description for additional information.
+
+Conditions of Employment
+
+
+Minimum Qualifications
+Master's degree; at least 3 years of experience directly related to the duties and responsibilities specified.
+Completed degree(s) from an accredited institution that are above the minimum education requirement may be substituted for experience on a year for year basis.
+
+Preferred Qualifications
+Strong interpersonal and communication skills
+Ability to work effectively in a team environment
+Ability to present statistical data and reporting to a wide range of audiences
+Experience working in a health related field
+Experience working in an education related field
+Knowledge of FERPA policies and procedures
+Experience with protected health information and HIPAA"
+"1572882119-1725","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Senior Statistical Programmer – 100% Remote – Consultancy","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AbOagL8aqw3GCN5XEneeaPzF3exNxv99E_w_iKdr54xjpYbURBUXtjXso-tjgagrWBlyJUZMpriiUb6GaB25KNs5m8DiCza4Spz07B6Rl3YreU9YuN9Wq7M28a9vZxhYBnmEX4a5Fqz1gGI_Em-qp9zWl_Rw-w24wC2F6dzrX6ak3FSVvvOl5LQZiOepMd-8JBZcbiaosNwryiFc9MmsJBwelFASRRr-yFTI49bnznTyGo5jxm5N8d3M3pgoVieNE9DSkrtLtn9GEhCVwsbePKev1egg4ljMtGhX7ktpyVyEadW83hD0WbKXhxfF_9BRcWcxRoV0a0qjkHvENR8ascKSw3yu4Wb2EWQsus900XhsZjVf5QAF4v8Aw1eGjvjyyxdv0addVnS6LY8yTG6iMJXyG4drOTppjntkCgc6CGNs-F-hDTnUwC-cjeyeHh5vgvFZAhOdm74LlayfmlCSph&p=12&fvj=1&vjs=3","Senior Statistical Programmer – 100% Remote – Consultancy","i-Pharm Consulting","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","null","i-Pharm Consulting-United States","Senior Statistical Programmer – 100% Remote – Consultancy Senior Statistical Programmer required to work for a fantastic medium sized CRO. They are a full-service CRO with a premium reputation within the life sciences industry. Their high-performance company environment means that you will always be appraised for the work you do. It’s a supportive working culture with a corporate structure that promotes career growth.This position is 100% Remote.JOB TITLESenior Statistical Programmer / Snr Stats Programmer / Senior SAS ProgrammerLOCATIONUSA / Home based / RemoteSALARY Highly competitive salary (DOE)ROLE/DESCRIPTIONYou will be the ‘go to’ person and serve as the Lead Statistical Programmer for a variety of different and exciting projectIn a nutshell - you will lead continuous improvement in the programming function’s operating systems and provide consultancy across the Statistical Programming functionAs the Lead Programmer, you will plan and deliver all study programming activities; programs for derived datasets, CDISC (SDTM and ADaM) datasets, tables, figures and listings, and program validation.Liaise and collaborate with various departments, sponsors and all third parties to ensure delivery requirements meet the client needs.Spearhead a department maintenance to ensure a high level of expertise in SAS applications (e.g. BASE, MACRO, GRAPH, ODS, SQL) and all other software applications.Provide expertise to CDM, Programmers, and Statisticians on programming and associated software support.Other expectations for the role: Extract information from the system during trial, Validate software, Provide project support on the statistics reporting process and Leading the development of in-house programming standardsREQUIREMENTSAt least 7+ years SAS Programming experience.Bachelor’s Degree or equivalent in Mathematics, Statistics, Computer Science (Masters Degree is a decided advantage)Recent expertise in full oversite and Leading a studySignificant CDISC compliance exposureExpert knowledge in SAS/Macro, Proc Report, and ODS.Unparalleled communication skills and the ability to lead/influence othersBe a real life “self-starter”ABOUT i-PHARM CONSULTINGi-Pharm Consulting is a specialist Recruitment Company servicing the Pharmaceutical industry in the USA, Europe and Asia Pac. We provide both permanent and contract staff to a wide range of Pharmaceutical, Medical Device, Biotechnology and Contract Research Organisations (CROs). i-Pharm has specific expertise in Clinical Research, Medical Affairs, Regulatory Affairs, Pharmacovigilance, Quality Assurance and Bioinformatics.www.i-pharmconsulting.comTO APPLYIf you would like to discuss this vacancy further, please call Practice Lead David Fearnley on +1 (718) 514-9604. If this role is not suitable, David is also available to discuss other possible positions or answer any general questions regarding your career and the current market.KEY WORDSSenior Statistical Programmer / Snr Stats Programmer / Senior SAS Programmer / CDISC / SDTM / ADaM / CRO / Clinical / Research / Statistical / Programmer / GCP / Projects / SAS / BASE / STAT / GRAPH / MACRO / Stats / Home based / Data / Data sets / Lead / Therapy / Clients / Meetings / Maintenance / Continues ImprovementJob Type: Full-timeExperience:SAS Programming: 7 years (Required)Work authorization:United States (Required)"
+"1572882150-1738","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","DATA SCIENTIST - EVIDENCE BASED CARE DESIGN","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B2LP6KtwgLMWcIJbzQK4y118hUYa2NHT0ELzb4aR6nDrO9_32R0LtatI_iRHNAWaYUNSKL7PaAHZ6ifOM8Hc3SlOOMDLPjfMU5a3468-CWWB7weN3oXJcXVvjd7jCiC16nrthGFtuQHGCyNQszg2fgVu-hwsNlUH1_cEbbdL0IacFRL4ZT_ZyVq5sxWnuxivZx2WD8dt1jQtsfI4b_OQAoyRuXflcoXNSEjkxlmRK4t5epn_mCpHVyyDKOg8HfDfpwOdFyH-ZwaIMXFnxq4uXdFaslQHdkVtIH977eF1HaBBrmLqRb53qv-axCyE9eChMJwgEka4vPFMnCdOpzCijibHUICSV2XwZ2uasP3W6E3Yq-JeubThw2BNZlmDr6Ymza0lJSVUHrXYLo5Z8Zg3Lt7ZjftvFYLxc=&p=14&fvj=0&vjs=3","DATA SCIENTIST - EVIDENCE BASED CARE DESIGN","Presbyterian Healthcare Services","3.5 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","247","Presbyterian Healthcare Services247 reviews-Albuquerque, NM 87101","Overview
+
+
+Job Description Type of Opportunity: Full Time FTE: 1.000000 Exempt: Yes Work Schedule: Days
+
+
+
+
+Summary:Develop innovative & sophisticated analytics models in concert with other Directors within the Analytics Organization (AO) and in partnership with IT to support analytics/reporting needs of business leaders & fellow colleagues for the real time business decision making. Support optimization and enhancement of existing analytical models utilized by the PHS across the AO. Support development and testing of analytical prototypes and contribute to analytical solutions best practices. Develop the communication strategies and transitioning of solutions to other teams within the AO. Responsible for guiding, mentoring and supporting fellow junior scientist and other analytical talent across the AO.
+
+
+
+Responsibilities
+
+Responsibilities:*Provide support in creating/coding, designing and testing pilot data-driven predictive/descriptive analytical models for PHS.to solve business problems leveraging the latest and most appropriate technologies in statistical modeling and machine learning*Ability to work in a diverse team setting across the AO to develop, refine and scale data management and analytics procedures, systems, workflows, best practices and other issues.*Assist in risk identification and mitigation planning and communicate to analytical senior leadership of any issues/escalations & risks*Support management of multi-tasking, achieving milestones, deadlines, and maintaining customer relationships*Support and assist healthcare reporting/analytics system implementations throughout the project life-cycle, performing workflow analysis, testing, training, go-live, system upgrades and issues management in partnership with IT *Ability and experience to deal with very granular data available through various data storage platform (e.g., Hadoop) and summarize, interpret and translate the findings to the leadership promoting data-driven strategic decision making*Design and test structured data and algorithms to support clinical, operational and financial data analysis using advanced data-driven analytical methods from statistics, data mining, econometrics, and operations research*Design models for investigations of various acute/chronic clinical and/or operational and/or financial areas, including hypotheses generation and creating an analysis plan with appropriate primary and secondary data required, and evaluate results of the analysis and interpret conclusions, taking into consideration bias/data limitations as well as performing any specialized analysis required*Create and test optimization algorithms, forecasting and predictive models for patient level outcomes, utilization management, and overall medical services*Support design, build and test of population scoring, stratification and segmentation based on predicted risk of adverse utilization/clinical and financial outcomes*Synthesize findings and conclusions including efficacy of existing programs as well as incremental impact of new care inventions and interventions; design and institute appropriate metrics to assess progress vs. projected impact.*Routinize advanced analytical and reporting methods and techniques for broader use of the AO community*Work with large and complex datasets to derive and validate predictive models across clinical, operational and financial areas*Collaborate and partner with management, project managers, and IT to identify cases that can benefit from predictive analytics and other advanced statistical techniques*Visualize, interpret, report, and communicate data findings creatively in a various formats and audiences*Support advanced analytical and data mining efforts which could include but not limited to clustering, segmentation, logistic and multivariate regression, decision/CART trees, neural networks, time-series analysis, sentiment analysis, topic modeling, random forests, and Bayesian analysis *Support collaboration with other analytics stakeholder to define, gather requirements and build a pilot prototype BI tools*Provide support in designing and development of reusable analytical assets (data structures, code, solutions); test and improvise improvements to existing assets; and conduct evaluation of the suitability and value of potential new assets*Assist in developing training material and provide hands-on mentoring to analytical talent on the appropriate use and interpretation of new analytical models, integration of these models into existing business analyses as well as assure, maintain and improve efficiency and quality; validate work product of peers across the AO*Assist with the preparation of documents/publications and presentation materials describing analytic methods, observations and findings in the AO area *Contribute towards and assist Informaticists leadership in developing a year-end value story to demonstrate value of the team and their contribution to progress towards the AOs and PHSs goals.
+
+
+
+Qualifications
+
+
+Other information:Bachelors degree in an econometrics, physics, biostatistics, computer science, applied mathematics, engineering or any other quantitative related subject area. A Masters or a Ph.D. is highly preferred. Four or more years of related business intelligence, statistical/mathematical, predictive modeling along with the business strategy experience required. Understanding of natural language processing, machine learning, conceptual modelling and hypothesis testing as well as relational database management systems (Oracle, Teradata, SQL Server, DB2 etc.) Knowledge of healthcare industry and healthcare information standards such as HL7, LOINC, FHIR, ICD 9/10 and CPT codes, industry standard groupers (e.g., ETGs, DRGs, DCGs, etc.) as well as of the health care delivery system processes. Experience in big data technologies such as Hadoop, Spark, Kafka, Storm, R, Python, SQL, no-SQL databases, database analytics and graph databases is a PLUS. Adept in using BI tools (e.g., Business Objects/BO, Cognos), data visualizations tools (e.g., Tableau), statistical software such as SAS and general health service research and reporting/analytics. Working knowledge of extract transform and loading (ETL), data cleaning, data normalization/mapping and business process management (BPM) is expected. Experience in mathematical modeling skills including but not limited to classification, regression, survival analysis, recommender systems, experimentation systems (A/B testing), hypothesis testing and supporting development of mathematical algorithms.
+
+
+
+
+Preferred Qualifications:
+Evidence based care work
+Clinical analytics background
+Experience with Epic
+Statistical analysis background
+Experience with SAS, R, Python, Tableau
+Benefits
+
+
+Benefits Benefits are effective day-one (for .45 FTE and above) and include:
+Competitive salaries
+Full medical, dental and vision insurance
+Flexible spending accounts (FSAs)
+Free wellness programs
+Paid time off (PTO)
+Retirement plans, including matching employer contributions
+Continuing education and career development opportunities
+Life insurance and short/long term disability programs
+About Us Presbyterian Healthcare Services is a locally owned, not-for-profit healthcare system of nine hospitals, a statewide health plan and a growing multi-specialty medical group. Founded in New Mexico in 1908, it is the state's largest private employer with approximately 11,000 employees.
+
+
+
+
+Presbyterian's story is really the story of the remarkable people who have chosen to work here. Starting with Reverend Cooper who began our journey in 1908, the hard work of thousands of physicians, employees, board members, and other volunteers brought Presbyterian from a tiny tuberculosis sanatorium to a statewide healthcare system, serving more than 700,000 New Mexicans. We are part of New Mexico's history - and committed to its future. That is why we will continue to work just as hard and care just as deeply to serve New Mexico for years to come. About New Mexico New Mexico's unique blend of Spanish, Mexican and Native American influences contribute to a culturally rich lifestyle. Add in Albuquerque's International Balloon Fiesta, Los Alamos' nuclear scientists, Roswell's visitors from outer space, and Santa Fe's artists, and you get an eclectic mix of people, places and experiences that make this state great. Cities in New Mexico are continually ranked among the nation's best places to work and live by Forbes magazine, Kiplinger's Personal Finance, and other corporate and government relocation managers like Worldwide ERC. New Mexico offers endless recreational opportunities to explore, and enjoy an active lifestyle. Venture off the beaten path, challenge your body in the elements, or open yourself up to the expansive sky. From hiking, golfing and biking to skiing, snowboarding and boating, it's all available among our beautiful wonders of the west. AA/EOE/VET/DISABLED. PHS is a drug-free and tobacco-free employer with smoke free campuses.
+
+
+
+
+AD123
+
+
+
+
+#CB"
+"1572882180-1752","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Data Science Specialist USA","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D35pONiEzCV0HOA1LSj07MBrUNmnAaSWLsWvroqamMmuv5sIOLoiF5i47oZbZSPWsTv5cOBBBEatGYG7q5LHJAcMJiXt0YcTvLLoCxWKbN0qg2SOXwLKJnv8xrLH0kVoFOICED7oue-pXfEOfWKll9gkUtbxKXNA05LhrEr7AFf7MipFs6y5xGa_29kL2slmB4O7BH_7l5DBazCzeCJwdSY0mWH5d8nI4-uYKAvSj97Rsa4Zrhfs0wbeVuUasOFzTHn-exJWekfuR0qQrGgkqw-cmuW7lNcDA_M7cfZRxsu3v5j5Ppa9LYiB8s2tXUYeje2WmASXlLGb_ckS7_6oT773l8CHNOL920_IiasfFIzSfRp0wn0fwAyKaWmj9XVmycdbM5jKbxDK8SZByMExJfvkOxcOWKWjFCs2kmljvwO6S-GJN1DFCUwg_pJeT77H_s68wRsjj8TDXEApnWLPRgprw2MJ27ZS1FUSpWvYY4cSViuWZzUXkowIXreeLYBa9qvPNkBWWAaViOHmhp8gfIk81ckFvBWQY=&p=0&fvj=0&vjs=3","Data Science Specialist USA","Mphasis","3.8 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","2,325","Mphasis2,325 reviews-United States","Note: This position is accepting applicants for- New York and Texas.
+Skills :
+Excellent knowledge of NLP and ML alogrithms.
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc
+Experience with common data science toolkits, such as R, Weka, NumPy, MatLab, etc {{depending on specific project requirements}}. Excellence in at least one of these is highly desirable
+Great communication skills
+Experience with data visualization tools, such as D3.js, GGplot, etc.
+Proficiency in using query languages such as SQL, Hive, Pig {{actual list depends on what you are currently using in your company}}
+Experience with NoSQL databases, such as MongoDB, Cassandra, HBase {{depending on project needs}}
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Qualification:
+TECH (Computer Science Engineering/ IT)/ MCA
+What’s in for you?
+At Mphasis, we promise you the perfect opportunity of building technical excellence, understand business performance and nuances, be abreast with the latest happenings in technology world and enjoy a satisfying work life balance.
+With the current opportunity, you will get to work with the team that has consistently been setting benchmarks for other deliveries in terms of delivery high CSATs, project completion on time and being one of the best teams to work for in the organization.
+You get an open and transparent culture along with freedom to experimentation and innovation"
+"1572882131-1730","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Senior Software Engineer - Computer Vision","https://www.indeed.com/rc/clk?jk=5f0bf339474a518d&fccid=ffd98152d5e973b6&vjs=3","Senior Software Engineer - Computer Vision","Kitware","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","null","Kitware-Santa Fe, NM","Job Description
+
+Kitware is currently hiring a Senior Software Engineer to join our Computer Vision team. If you are interested in working on cutting edge, real world problems in a setting that is a cross section between academia and industry, then this is a great opportunity for you.
+
+
+
+By joining our team, you will be contributing your C++ expertise in the areas of computer vision or machine learning to develop robust solutions for real-world problems. Our projects focus on areas such as 3D reconstruction, object detection, image manipulation detection, and motion pattern learning and anomaly detection. Kitware’s employees have unique opportunities to interact and collaborate directly with customers, visit interesting customer sites, and participate in live field tests and demonstrations. Software Engineers at Kitware also have the opportunity to publish and maintain open source software packages.
+
+
+
+In this position, you will help design and implement large scale C++ software frameworks that enable cutting edge research algorithms to run optimally across diverse environments from embedded systems and mobile platforms to desktop applications to cloud infrastructure. Senior engineers are expected to take a leadership role in working with the community to maintain quality open source software on platforms such as Github and Gitlab. Working closely with an experienced team of researchers and software developers, you will have opportunities to learn more about emerging topics in computer vision, machine learning, and artificial intelligence.
+
+
+
+Qualifications
+
+
+Minimum 3-5 years experience as a software engineer
+Significant C++ experience
+Experience integrating 3rd party libraries
+Experience with distributed processing/computing
+Experience designing and implementing complex software systems
+Experience optimizing code
+Some leadership experience reviewing and overseeing others code development
+Some experience in other programming languages, especially Python
+BS and MS degree in computer science or a related field
+Due to contractual restrictions, only candidates that are US Persons (citizens, permanent residents, asylees or refugees) will be considered for this position.
+
+Preferred Qualifications
+
+
+
+
+Experience integrating other languages as necessary
+Experience with GPU based development
+Knowledge of Computer Vision applications
+Knowledge of software development processes/environments including CMake/CDash, MS Visual Studio, gcc, make, and/or XCode
+Ability to develop software for Unix, Linux, MacOS and/or Windows operating systems to large open-source projects and communities
+
+Company Description
+
+Founded in 1998, Kitware is a leader in the creation and support of open-source software and state-of-the-art technology, and is one of the fastest growing software companies in the country. Kitware leverages its diverse technical expertise to provide advanced custom solutions for a host of complex technical problems. Kitware’s mission is to advance the frontiers of understanding by developing innovative open-source software platforms and integrating them into research, processes, and products.
+
+
+
+We partner with premier government R&D agencies such as DARPA, IARPA, AFRL, ONR, and NRL; branches of the US military; and members of the intelligence community on a range of efforts including prime contracts, SBIRs, and STTRs. In addition, we provide commercial services to companies ranging from tiny startups to Fortune 500 internet companies. By joining our team, you will be contributing your expertise to develop robust solutions for real-world, challenging problems that directly enhance our national security.
+
+Kitware employs an open source business model to foster extended, collaborative communities, and to provide flexible, high-quality technical solutions. If you’ve used CMake, ITK, or VTK, you know our work and the impact it has on the communities we help build
+
+
+
+Additional information
+
+Kitware team members enjoy a small company environment, flexibility in work assignments, and high levels of independence and responsibility. Besides a great work environment, our comprehensive benefits package includes a generous compensation plan, flexible working hours, six weeks paid time off, 401(k), health insurance, life insurance, short- and long-term disability insurance, and free coffee, drinks and snacks.
+
+
+
+Kitware actively subscribes to a policy of equal employment opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, age, protected veteran status, uniformed service member status, or any other characteristics protected by applicable law."
+"1572882161-1743","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Statistical Programmer","https://www.indeed.com/rc/clk?jk=8448ce4e1483789c&fccid=951ab475814d0147&vjs=3","Statistical Programmer","Katalyst Healthcares & Life Sciences","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","null","Katalyst Healthcares & Life Sciences-Albuquerque, NM 87109","Roles and Responsibilities:
+
+Apply SAS programming and analytical skills using BASE/SAS, SAS/STAT, SAS/GRAPH and SAS MACROS
+
+Design, develop, evaluate, validate and modify computer programs using SAS to analyze clinical data
+
+Produce and deliver standard datasets, program edit checks, quality tables, figures and listings in a timely and high quality fashion
+
+Create and validate CDISC standard datasets
+
+Provide input in the design and development of clinical trial protocols, case report forms and clinical databases
+
+Work closely with clinical operations, data management and statisticians to generate statistical output - tables/listing/figures
+
+Liaise with vendors as needed to facilitate electronic data transfers and statistical programming
+
+
+
+Job Skills:
+
+Good project management skills, CRO oversight skills, professional attitude, self-improvement mentality with positive attitude
+
+Good written and oral presentation skills and ability to communicate effectively
+
+Ability to think creatively and independently, form sound opinions, and make sensible decisions in a dynamic environment
+
+Strong interpersonal, organizational, and multi-tasking skills
+
+Excellent attention to detail and problem solving skills
+
+
+
+Education and Experience:
+
+Master's degree with strong analytical skills
+
+5+ years in a pharmaceutical/biotech or CRO setting preferably with Phase III trial experience
+
+Strong knowledge and understanding of GCP/ICH Guidelines for conducting clinical trials
+
+Thorough knowledge of SDTM and ADaM data sets, MACROS, T/L/Client and CDISC theory and implementation guidelines
+
+R programming experience a plus"
+"1572882154-1740","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Senior Statistical Programmer – 100% Home Based – CRO","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AbOagL8aqw3GCN5XEneeaPzF3exNxv99E_w_iKdr54xjpYbURBUXtjXso-tjgagrXZJKstr_1Nm9Bxlm9XmUifAqElOg5uC8RIXd89SOcS7nuJ5hbOzMC9h8f-qjpuCeu2f7zZA7L_686rXbGtJTyumunJdxQvuKLojf2AadAWA2KTi_c5UfNSbJPfr_HuWHZ0BwnKe2nMUgwU_7qIQL6pg6a9hrRuelK26j_10zY292cxFfXORECJQeAfvOrFn6eEpLR55Nf0A_N9JwM_a5clEOSk7JosuXTYMqRq4k1zRdbFk4gAs54WVDx-jaGPS6IRycxIJ6gv0BAjdEy6-z6rJXuwoDlRGmH56Xx2x0OAzdqQVdJmRFCfrxS9udriYlXZ55zYwr16CgnbGMl6oooG8XBpcX9yQ8cFCANTfiltMtUr22foYk_r50DpRLLFkaQNs1GRmT8_inn3gXO_0lHu&p=12&fvj=1&vjs=3","Senior Statistical Programmer – 100% Home Based – CRO","i-Pharm Consulting","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","null","i-Pharm Consulting-United States","Senior Statistical Programmer – 100% Home based – CRO Senior Statistical Programmer required to work for a true global CRO leader. As a best in service fully end-to-end clinical solutions organization they offer their premium portfolio of client’s concise expertise to a complex marketplace.This position is 100% home based.JOB TITLESenior Statistical Programmer / Snr Stats Programmer / Senior SAS ProgrammerLOCATIONUSA / Home basedSALARY Highly competitive salary (DOE)ROLE/DESCRIPTIONYou will be the ‘go to’ person and serve as the Lead Statistical Programmer for projects of different complexitiesIn a nutshell - you will assist in managing project budgets and tracking project specific performance metrics. Also, function as an internal and external customer liaison.You will SAS software (BASE, STAT, GRAPH, MACRO) to produce well formatted datasetsFrom a quality control (QC) perspective - ensure that outputs of mapped and analysis datasets, tables, listings, and figures and other programming activities are meeting quality standards.As the lead – you will be responsible for: directing the programming activities of other programming personnel, and monitoring progress on deliverables, reviewing project documentation; Statistical Analysis Plan, mock shells, programming specifications, annotated CRFs, and SAS database design, and provide feedback to project team members.You will take part in sponsor meetings, kick-off meetings, and bid defense meetings as Statistical Programming representative (as required by sponsor)Importantly, you be responsible for managing schedule and time constraints across multiple projects, sets goals based on priorities, and priority changes by reorganizing daily workload.REQUIREMENTSAt least 7+ years SAS Programming experience.Bachelor’s Degree or equivalent in Mathematics, Statistics, Computer Science (Masters Degree is a decided advantage)Recent expertise in full oversight and Leading a studySignificant CDISC compliance exposureUnparalleled communication skills and the ability to lead/influence othersBe a real life “self-starter”ABOUT i-PHARM CONSULTINGi-Pharm Consulting is a specialist Recruitment Company servicing the Pharmaceutical industry in the USA, Europe and Asia Pac. We provide both permanent and contract staff to a wide range of Pharmaceutical, Medical Device, Biotechnology and Contract Research Organisations (CROs). i-Pharm has specific expertise in Clinical Research, Medical Affairs, Regulatory Affairs, Pharmacovigilance, Quality Assurance and Bioinformatics.www.i-pharmconsulting.comTO APPLYIf you would like to discuss this vacancy further, please call Practice Lead David Fearnley on +1 (718) 514-9604. If this role is not suitable, David is also available to discuss other possible positions or answer any general questions regarding your career and the current market.KEY WORDSSenior Statistical Programmer / Snr Stats Programmer / Senior SAS Programmer / CDISC / SDTM / ADaM / CRO / Clinical / Research / Statistical / Programmer / GCP / Projects / SAS / BASE / STAT / GRAPH / MACRO / Stats / Home based / Data / Data sets / Lead / Therapy / Clients / MeetingsJob Type: Full-timeExperience:SAS Programming: 7 years (Preferred)Work authorization:United States (Required)"
+"1572882195-1759","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Data Scientist I","https://www.indeed.com/rc/clk?jk=4e9cccbad61b848e&fccid=922fc612bf0624a2&vjs=3","Data Scientist I","San Juan Regional Medical Center","3.6 out of 5","","","98","San Juan Regional Medical Center98 reviews-Farmington, NM 87401","Love what you do; Love where you live
+Required Qualifications :
+Bachelors Degree in Business or related area
+Minimum 2 years computer experience required, especially with databases, word processing, and spreadsheets
+Ability to maintain detailed and organized records required
+Ability to prepare professional reports and graphics is a plus
+Exemplary customer service skills
+Excellent communication skills
+Preferred Qualifications :
+Programming knowledge helpful
+Required Behaviors :
+As you go about fulfilling this mission, your work habits and work relationships should embody SJRMC's values. These values are our culture, our identity as an organization. Sacred Trust, Personal Reverence, Thoughtful Anticipation, Team Accountability and Creative Vitality ask more of us than merely completing some list of tasks. Our values ask for a deeper level of commitment and, what is asked of us, we freely give because we believe in our mission.
+Duties and Responsibilities :
+Facilitate and submit data for Truven’s database, including Explore, Medstat
+Custom report compilation and writing using Meditech
+Provide data to state agencies and support SJRMC’s ancillary facilities with reports and scorecards
+Liaison to IT for technical updates that impact mandatory reporting, i.e., Quality Measures.
+Gather and input ED data for CMS Quality Measures.
+Each employee is responsible for implementing SJRMC’s Service Standards into their daily work
+Safety Courtesy Effectiveness Stewardship
+Other duties as assigned
+This position requires a dedicated individual who is flexible, highly engaged in the dynamics and competing priorities of the Quality Data Team and is able to speak to their work in various settings.
+The Data Scientist I is able to utilize data to identify progress, performance, and opportunities for improvement for quality, inpatient and outpatient clinical areas, patient experience, finance and other metrics.
+This position focuses on data integrity, timeliness, and transparency.
+Work assignments may include short or long-term coverage for the work tasks of other data team roles, report writing and presentations utilizing PowerPoint, Excel or other advanced programs.
+The Data Scientist I may be responsible for the ongoing management of the organization’s Balanced Scorecard, Harm Scorecard, or other documents that support reimbursement programs like value-based purchasing, pay-for-performance or insurance incentives.
+The primary goal is to work independently and as a team to transform raw data into meaningful information that facilitates organizational decision-making and maximum reimbursement.
+This position will align quality data with the organization’s strategic plan and centralize the consistent roll out of data and information throughout the organization.
+The Data Scientist I may represent his or her work in presentations to all levels in key quality committees including Quality Council, Medical Staff Quality and Performance Improvement Committee, Quality Assurance Performance Improvement (QAPI), and others.
+This role serves as a knowledgeable resource in quality data, defender of data integrity and oversight of basic data work products.
+This role develops a basic understanding of how data supports and drives LEAN/Six Sigma performance improvement initiatives; accreditation through Der Norske Veritas (DNV), the Baldrige Excellence Framework and other best practice standards.
+Physical Demands and Environmental Work
+Must be able to perform accurately and quickly in a busy, stressful environment, setting priorities as to duties
+Sitting for prolonged periods of time
+Able to spend long hours in front of a computer"
+"1572882169-1747","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Statistician Supervisor","https://www.indeed.com/rc/clk?jk=af0d63612dc29c0f&fccid=09ed896583ff5570&vjs=3","Statistician Supervisor","State of New Mexico","3.6 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","259","State of New Mexico259 reviews-Santa Fe, NM","Salary
+$22.84 - $39.74 Hourly
+$47,510 - $82,667 Annually
+This position is a Pay Band 80
+
+Purpose of Position
+THIS POSTING WILL BE USED TO CONDUCT ONGOING RECRUITMENT AND WILL REMAIN OPEN UNTIL POSITION HAS BEEN FILLED.
+Why does the job exist?
+The Statistician Supervisor serves as an integral member of the Public Education Department's Accountability Bureau. As a member of this collegial team, this position helps implement New Mexico's highly visible system of school and district accountability by accurately analyzing and reporting K-12 education data from multiple sources.
+How does it get done?
+The Statistician Supervisor:
+
+
+
+¿ Validates student-level performance data for one or more assessment programs.
+
+
+
+¿ Collaborates with the Information Technology (IT) Bureau to ensure the successful matching of demographic data to vendor provided assessment records .
+
+
+
+¿ Presents aggregated performance data in a consistent format for multiple purposes.
+
+
+
+¿ Meets rigorous expectations for precision and accuracy by developing quality control procedures.
+
+
+
+¿ Establishes and maintains friendly, service-oriented relationships with education stakeholders, particularly when working with school district staff to confirm or correct anomalous data .
+
+
+
+¿ Makes decisions informed by past practice, current context, and an attitude of continuous improvement.
+Who are the customers?
+Education stakeholders, such as parents and students; policymakers; teachers; superintendents, principals, and other district/ school leadership; and internal department staff including the Secretary of Education.
+Ideal Candidate
+Skill in data analysis and scripting/coding using one or more relevant statistical packages, such as SPSS, STAT A, and R.
+
+Skill in transforming datasets from multiple sources to fit prescribed file layouts.
+
+Oral Communication skills as portrayed by presentations to disparate groups.
+
+Written communication skills, with a specific ability to convey technical concepts to a broad audience.
+
+Fluency in Microsoft Office products, specifically Excel.
+Minimum Qualification
+Master's Degree in Mathematics, Statistics, Computer Science, Psychology, Economics, Marketing Research, Sociology, Education, or closely related field and six (6) years of experience in the development, implementation and maintenance of accountability systems, performance measures, data collection, analysis, statistical research, and/or advanced statistical modeling. Possession of a Ph.D. or Ed.D. or candidacy for such, as a graduate student researcher in the above educational fields will substitute for the required degree and four (4) years of required experience.
+Substitution Table
+No job description available
+Employment Requirements
+Must possess and maintain a valid New Mexico Driver's License.
+Working Conditions
+Work is performed in an office setting with exposure to Visual/Video Display Terminal (VDT) and extensive personal computer and phone usage. Some sitting, standing, bending and reaching may be required. Some occasional travel is required for meetings and conferences.
+Supplemental Information
+Benefits:
+Do you know what Total Compensation is? Click here
+
+Agency Contact Information: Dr. Timothy Hand Email
+For information on Statutory Requirements for this position, click the Classification Description link on the job advertisement.
+
+Bargaining Unit Position
+This position is not covered by a collective bargaining agreement."
+"1572882178-1751","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Machine Learning Engineer","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dd6ODGIcHh14zHDCR9CNseZYtnvrIrHFzn1VRHIqB43_0cG4_WrDwtR9Oy18nPmeBZ1NvtIk2BHeMssz1IQSL3lIcou1YjdtppB_7I36V6KUFCuEDPK2omWXm79rOje3iKk9Y0qnoU6J6JueUHJVBP-0Yg4mVUFBUVN6WmjADHuC60zVfEoTY5zqSzX_qm3TuREEWELGG6YZemRZhwhMx6ng9mJD9WS4k6S5IOxo_FV557z9bGjGJRfd7uhbMoYH6UYY3NykTg4q-7s69O5G3sogVCdTwpv8sjlnYxGpKQAr1G8NpETdAFYupCYDKI251rTA2q7JsC8kehvVdy9OPoufMFugh3wIh1qHK_tGgdyd7vBpUETVhHonV0C3spCyrrQNwr7wNzm_TTQ2qlVH88usvv10moab_EaERSwG_B0t1WBY-9MF-u-9Yez35y45c=&p=1&fvj=1&vjs=3","Machine Learning Engineer","Verus Research","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","null","Verus Research-Albuquerque, NM 87110","Verus Research is searching for a Machine Learning Engineer to perform research & development, conception, and implementation of advanced control theory principals for autonomous system development.The primary role for the Machine Learning Engineer will be to develop and implement machine learning algorithms with a focus on reinforcement learning techniques and robotics applications. Of particular interest will be developing algorithms to satisfy given specifications with a high focus on safety assurance.Responsibilities:Design and implement data-driven control algorithms and dynamics modelsResearch novel techniques for incorporating autonomy and intelligence into systems that are safe and trustworthyDevelop simulation environments for data generation and system testingImplement developed algorithms on hardware testbedsPrepare technical reports and present results to colleagues and customersHelp with proposal writing and developing new opportunities in the field of autonomyThe ideal candidate will possess the following:U.S. citizenHolding or being able to obtain a Department of Defense security clearanceAdvanced degree in electrical engineering, controls systems engineering, aerospace engineering, computer science, or related fieldsExperience with MATLAB, SIMULINK, C++, Python or other similar programming languagesExperience developing simulation environments in UnityRobotic control systems experience, including ability to build robotic hardware demonstrations of learned algorithmsDemonstrated record of scientific publications in peer reviewed journals or conference proceedingsPlease express your interest in this opportunity by visiting https://verusresearch.net/careers/.Job Type: Full-timeSalary: $90,000.00 to $135,000.00 /yearExperience:Machine Learning: 3 years (Required)Education:Master's (Required)Work authorization:United States (Required)Additional Compensation:BonusesWork Location:One locationBenefits:Health insuranceDental insuranceVision insuranceRetirement planSigning bonusPaid time offFlexible scheduleParental leaveRelocation assistanceProfessional development assistanceTuition reimbursementThis Job Is Ideal for Someone Who Is:Innovative -- prefers working in unconventional ways or on tasks that require creativityAutonomous/Independent -- enjoys working with little directionPeople-oriented -- enjoys interacting with people and working on group projectsThis Company Describes Its Culture as:Innovative -- innovative and risk-takingTeam-oriented -- cooperative and collaborativePeople-oriented -- supportive and fairness-focusedSchedule::Monday to Friday"
+"1572882133-1731","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","High Speed Imaging and Data Science Postdoc","https://www.indeed.com/rc/clk?jk=b1e13a0c1145cf03&fccid=58c52d580682c6ce&vjs=3","High Speed Imaging and Data Science Postdoc","Los Alamos National Laboratory","4.2 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","185","Los Alamos National Laboratory185 reviews-Los Alamos, NM","What You Will Do
+Los Alamos National Laboratory (LANL) is seeking one or more Postdoctoral Research Associates to conduct research and development in the high-speed imaging and scattering frontiers. Here high-speed is commensurate with the latest and near-future capabilities at synchrotrons, X-ray free electron lasers, hadron colliders, or pulsed power facilities; i.e., on the order of or above 10 million frames per second for multi-frame video recording. In addition to hardware development and applications, data-driven methods present new opportunities for high-speed science and technology with interdisciplinary impact and substantial growth potential. LANL is a world-leading multi-disciplinary institute that houses the state-of-the-art computational facilities, experimental facilities, and collaborates with other national and international organizations such as Argonne APS synchrotron, SLAC LCLS X-ray free electron laser, and light sources in DESY Germany.
+The project will adhere to a milestone-driven schedule. It is expected that a successful candidate will be a key member of a multi-disciplinary team to develop and use high-speed hardware and to implement data methods for high-speeding experiments using X-rays and other messenger particles. You will have the opportunity to conduct research leading to high-impact research papers, to present at national and international conferences, and to pave way towards a fruitful and rich career.
+
+
+
+
+What You Need
+Minimum Job Requirements:
+
+· Demonstrated ability to carry out independent and/or collaborative research in experiments using high-speed imaging hardware, data analysis methods, or a closely related discipline, as evidenced by papers submitted to or published in a peer-reviewed journal or equivalent.
+· Sound academic training in fundamental physics, material science, chemistry, biology, or other related discipline.
+· Fluent use of at least one of the major computer languages such as C/C++ or Python.
+· Demonstrated ability to communicate technically and interpersonally both orally and in writing.
+
+Desired Skills:
+· Experience with related experiments and instrumentations, in particular, imaging instrumentation.
+· Experience with high-performance computing platforms. GPU/TPU accelerated algorithm development such as deep learning.
+· Experience with commercial and open source data analysis using software tools such as Matlab or others.
+Education: A Ph.D. in experimental or computational science or very closely related discipline, earned within the last five years.
+Notes to Applicants:
+· In addition to applying online, it is recommended that interested candidates also send their inquiries, CV including a list of peer-reviewed publications and invited talks, and the names and contact information of at least three references to Dr. Zhehui Wang ( zwang@lanl.gov )
+· To receive full consideration, please ensure that your application package provides all of the information requested above.
+· Evaluation of applications will commence immediately and continue until the position is filled.
+
+
+
+
+
+Additional Details:
+
+Position does not require a security clearance. Selected candidates will be subject to drug testing and other pre-employment background checks.
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing.
+
+Candidates may be considered for a Director's Postdoc Fellowship and outstanding candidates may be considered for the prestigious Richard P. Feynman, Darleane Christian Hoffman, J. Robert Oppenheimer, or Frederick Reines Distinguished Postdoc Fellowships .
+
+For more information about the Postdoc Program, go to https://www.lanl.gov/careers/career-options/postdoctoral-research/index.php .
+
+Equal Opportunity:
+Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regards to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+
+
+
+Where You Will Work
+
+Located in northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. LANL enhances national security by ensuring the safety and reliability of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+
+
+
+
+
+
+
+
+Appointment Type Postdoc
+
+
+Postdoc"
+"1572882185-1754","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Computer Vision Engineers/Scientists","https://www.indeed.com/rc/clk?jk=d834ab9f61caee8b&fccid=dddcbdc0f07ee105&vjs=3","Computer Vision Engineers/Scientists","Bridgport Resources","null","","","null","Bridgport Resources-Albuquerque, NM","We are seeking highly talented Computer Vision Engineers/Scientists (Senior/Junior) to support the development of embedded processing systems for both commercial and DoD applications. Our primary focus involves the application of state-of-the art, FPGA, and System-On-Chip (SOC) devices to high performance video processing, adaptive optics, laser communications, imaging sensors, and a wide range of real-time control systems for inertial measurement units, fast steering mirrors, and stabilized telescopes.
+
+
+
+Core responsibilities of these positions involve developing, implementing, and testing real-time video processing algorithms and hardware solutions using a mix of software and FPGA-based acceleration. Example applications include object detection and tracking, real-time video enhancement, object recognition and classification, position/attitude estimation, as well as a range of high-speed processing functions supporting laser optical alignment and adaptive optics. These positions will contribute toward market growth establishing new and evolving current company products and solutions for defense and commercial applications. Candidates will support developing algorithmic concepts employing tools such as MATLAB®/Simulink®, but likewise play a key, hands-on role in translating these designs into working, real-time hardware. We seek creative thinkers for both the idea and implementation phases. Ability to pass extensive screening processes, obtaining and maintaining secret level security clearance is required.
+
+
+
+We are seeking candidates who are interested in working within a small, agile, and innovative team who share a strong desire to create a work environment that is highly collaborative, well compensated, rewarding and fun. Highly qualified candidates can anticipate a more than competitive salary. We have several locations to choose from beginning with Albuquerque, NM / Huntsville, AL / Washington DC area.
+
+
+
+US Citizenship is REQUIRED as outlined below:
+
+
+
+This job requires access to technology, materials, software or hardware that is controlled by the export laws of the United States. Candidates are required to provide proof of US citizenship.
+
+.
+
+
+
+Send resume to diana@bridgeportresources.com along with salary requirement. You may also contact us at 480.456.6031."
+"1572882167-1746","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Mathematical Scientist","https://www.indeed.com/rc/clk?jk=a002b390d8c5bf80&fccid=58c52d580682c6ce&vjs=3","Mathematical Scientist","Los Alamos National Laboratory","4.2 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","185","Los Alamos National Laboratory185 reviews-Los Alamos, NM","What You Will Do
+
+This position will be filled at either the Scientist 3 or 4 level, depending on the skills of the selected candidate. Additional job responsibilities (outlined below) will be assigned if the candidate is hired at the higher level.
+
+The Theoretical Biology and Biophysics group (T-6) at the Los Alamos National Laboratory is one of the world’s premier research groups in quantitative biology, primarily focused on research problems related to human health and disease. The group integrates an interdisciplinary team of researchers trained in physics, mathematics, statistics, biology, chemistry, and epidemiology. The research portfolio ranges from basic to applied science. Current research areas include viral dynamics, immune system modeling, cell signaling, protein structure and dynamics, evolutionary biology, phylodynamics, vaccine design, mathematical modeling of emerging infections, and machine learning for medical outcomes research. The group is funded through grants from the National Institutes of Health (NIH) including the National Cancer Institute (NCI), the National Science Foundation (NSF), the Department of Energy (DoE), the Department of Defense (DoD), the Department of Homeland Security (DHS), and, other government agencies.
+
+
+
+
+What You Need
+Minimum Job Requirements:
+Scientist 3 ($98,900 - $165,100)
+Demonstrated excellence in research by a solid track record of peer-reviewed publications, presentation, and professional recognition
+Experience in mathematical modeling or developing/applying computational and data science methodologies for a key application area of the group
+Demonstrated experience in working as part of a multidisciplinary team
+Ability to communicate effectively in English, both in oral presentations and written manuscripts
+Demonstrated experience in seeking external funding to support their work through grant applications to federal funding agencies
+Scientist 4 ($119,700 - $201,700)
+In addition to the duties outlined above, the Scientist 4 will be required to:
+Lead and guide inter-disciplinary teams, possibly encompassing both theorists and experimentalists, to develop new theoretical and computational tools for the modeling and simulation of the earth system
+Recruit and mentor junior staff
+Demonstrated experience providing leadership in preparing proposals that guide future research direction of a research group
+Desired Skills:
+An understanding of the workings of the funding agencies that support mathematical biology research
+Experience mentoring students and postdocs
+Record of leading peer review of the work of others within own organization and participation in peer review across organizations or disciplines
+Experience with implementing project management plans, including scope, schedule, and budget, for small to moderate projects and/or major project tasks; defining deliverables at project or major task level
+Ability to define and implement research programs in mathematical biology at the national and international level
+National and international collaboration network
+The ability to obtain a Q clearance, which typically requires U.S. citizenship
+Notes to Applicants:
+For full consideration, please submit (A) a cover letter describing background and relevant experience, (B) a full resume
+Candidates who are interested in this position should send 3 letter of reference directly to Martha Perkins at mperkins@lanl.gov
+Review of applications will begin on October 14th 2019 and will continue until February 3 rd or position filled
+This is a multi-fill position
+
+
+
+
+Additional Details:
+Clearance: Q (Position will be cleared to this level). Applicants selected will be subject to a Federal background investigation and must meet eligibility requirements* for access to classified matter.
+
+*Eligibility requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472.2 for additional information.
+
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing.
+
+Regular position: Term status Laboratory employees applying for regular-status positions are converted to regular status.
+
+Internal Applicants: Please refer to Laboratory policy P701 for applicant eligibility.
+Equal Opportunity: Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regards to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+
+
+
+Where You Will Work
+Located in northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. LANL enhances national security by ensuring the safety and reliability of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+
+
+
+
+
+
+
+
+Appointment Type Regular
+
+
+Regular"
+"1572882123-1727","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Cost Estimator/Engineer","https://www.indeed.com/rc/clk?jk=493f846e5db4bd2e&fccid=ef6981cd4278fdbc&vjs=3","Cost Estimator/Engineer","Tecolote Research, Inc.","4.4 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","36","Tecolote Research, Inc.36 reviews-Albuquerque, NM 87106","Skills Required: Required Skills:
+Applicant should be proficient in the use of M/S office applications, i.e., M/S Project, Word, PowerPoint, and Excel.
+Excellent verbal communication, written, and quantitative analytical skills are required.
+BS/BA in cost, economics, math, or statistics desired.
+Experience:
+Applicant must be proficient in performing cost estimating activities such as cost analysis, statistical analysis, WBS development, and risk analysis.
+Applicants will also be familiar with cost estimating principles/DoD acquisition policies. They should also have a working knowledge of the DoD acquisition and project management process. A working knowledge of earned value management, scheduling, and the DoD Budget cycle is desirable.
+Additionally, understanding of system engineering concepts, how subsystems are affected by changes in other subsystems, knowledge of quantitative analytic techniques, and a strong working knowledge of ACEIT is highly desirable.
+Must be able to obtain a security clearance.
+U.S. citizenship required.
+
+
+
+
+Responsibilities:
+The applicant will be responsible for developing and delivering cost estimates for defense acquisition related projects.
+Applicant should have a thorough understanding of cost estimating, defense acquisition and budget cycles.
+Applicant will be responsible for creating estimates using ACEIT software.
+The applicant may be required to work with high ranking DoD officials and communicate with prime contractor personnel.
+The applicant should be familiar with stochastic modeling and have an understanding of how to convey the meaning of the results.
+
+
+
+
+Benefits:
+We offer competitive salaries commensurate with education and experience. We have an excellent benefits package that includes:
+
+
+Comprehensive health, dental, life, long and short term disability insurance
+100% Company funded Retirement Plans
+Generous vacation, holiday and sick pay plans
+Tuition assistance
+
+
+Tecolote Research is a private, employee-owned corporation where people are our primary resource. Our investments in technology and training give our employees the tools to ensure our clients are provided the solutions they need, and our very high employee retention rate and stable workforce is an added value to our customers. Apply now to connect with a company that invests in you."
+"1572882142-1735","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Senior Statistical Programmer – 100% Home Based – CRO","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AbOagL8aqw3GCN5XEneeaPzF3exNxv99E_w_iKdr54xjpYbURBUXtjXso-tjgagrXZJKstr_1Nm9Bxlm9XmUifAqElOg5uC8RIXd89SOcS7nuJ5hbOzMC9h8f-qjpuCeu2f7zZA7L_686rXbGtJTyumunJdxQvuKJZNkn0wV0k67uepAlp-qQi0OJiMgCw_tr3B02dDz1KckakjddDd4IjSj6ROMYUaQL5bJ25zyyYhKeqQ1JepCmjYKaMUuEbQJosNRLgfkdKK-ZrkrN0GWHdn93fm6TTq70fScub4037m5dGz6NR9BPbGx92k0vTTNE3B5Bri7ZAd0d96XdtZ8kUvATLqo9_8lxa_Oxh_hokmD0_I554fswlmj1tL_R7jrd-H2StW7RjXmniNDUGFr6tRBPPCty7Yyri-m3bSkuMXFlDc344ehV7fSBGXPP5HU5acc3ZVYKMa9bQDhSlkKy9&p=2&fvj=1&vjs=3","Senior Statistical Programmer – 100% Home Based – CRO","i-Pharm Consulting","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","null","i-Pharm Consulting-United States","Senior Statistical Programmer – 100% Home based – CRO Senior Statistical Programmer required to work for a true global CRO leader. As a best in service fully end-to-end clinical solutions organization they offer their premium portfolio of client’s concise expertise to a complex marketplace.This position is 100% home based.JOB TITLESenior Statistical Programmer / Snr Stats Programmer / Senior SAS ProgrammerLOCATIONUSA / Home basedSALARY Highly competitive salary (DOE)ROLE/DESCRIPTIONYou will be the ‘go to’ person and serve as the Lead Statistical Programmer for projects of different complexitiesIn a nutshell - you will assist in managing project budgets and tracking project specific performance metrics. Also, function as an internal and external customer liaison.You will SAS software (BASE, STAT, GRAPH, MACRO) to produce well formatted datasetsFrom a quality control (QC) perspective - ensure that outputs of mapped and analysis datasets, tables, listings, and figures and other programming activities are meeting quality standards.As the lead – you will be responsible for: directing the programming activities of other programming personnel, and monitoring progress on deliverables, reviewing project documentation; Statistical Analysis Plan, mock shells, programming specifications, annotated CRFs, and SAS database design, and provide feedback to project team members.You will take part in sponsor meetings, kick-off meetings, and bid defense meetings as Statistical Programming representative (as required by sponsor)Importantly, you be responsible for managing schedule and time constraints across multiple projects, sets goals based on priorities, and priority changes by reorganizing daily workload.REQUIREMENTSAt least 7+ years SAS Programming experience.Bachelor’s Degree or equivalent in Mathematics, Statistics, Computer Science (Masters Degree is a decided advantage)Recent expertise in full oversight and Leading a studySignificant CDISC compliance exposureUnparalleled communication skills and the ability to lead/influence othersBe a real life “self-starter”ABOUT i-PHARM CONSULTINGi-Pharm Consulting is a specialist Recruitment Company servicing the Pharmaceutical industry in the USA, Europe and Asia Pac. We provide both permanent and contract staff to a wide range of Pharmaceutical, Medical Device, Biotechnology and Contract Research Organisations (CROs). i-Pharm has specific expertise in Clinical Research, Medical Affairs, Regulatory Affairs, Pharmacovigilance, Quality Assurance and Bioinformatics.www.i-pharmconsulting.comTO APPLYIf you would like to discuss this vacancy further, please call Practice Lead David Fearnley on +1 (718) 514-9604. If this role is not suitable, David is also available to discuss other possible positions or answer any general questions regarding your career and the current market.KEY WORDSSenior Statistical Programmer / Snr Stats Programmer / Senior SAS Programmer / CDISC / SDTM / ADaM / CRO / Clinical / Research / Statistical / Programmer / GCP / Projects / SAS / BASE / STAT / GRAPH / MACRO / Stats / Home based / Data / Data sets / Lead / Therapy / Clients / MeetingsJob Type: Full-timeExperience:SAS Programming: 7 years (Preferred)Work authorization:United States (Required)"
+"1572882121-1726","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","DATA SCIENTIST - EVIDENCE BASED CARE DESIGN","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B2LP6KtwgLMWcIJbzQK4y118hUYa2NHT0ELzb4aR6nDrO9_32R0LtatI_iRHNAWaYUNSKL7PaAHZ6ifOM8Hc3SlOOMDLPjfMU5a3468-CWWB7weN3oXJcXVvjd7jCiC16nrthGFtuQHGCyNQszg2fgc4-Pv5GQme-67PkJPqk5cZh0c0mFcRhQRdv226DK3UnjJu0Lu4fBEUjOKSn3tUFAz5VIoQx6-IKd1TeO2x5dL6bRbTwb2u91PcbtGf3B22DlNsPjQiPffgTxG9nZw-ieURKwNciBZe7dnnfAgeIPMn2TrXKlmhkvbZHQ8Nxiudv7yQHOjfyYMEs9W9z6A0iF-97tXw3zQh9jIiv7Tc5REwx8aLZbKE8l4CvzvDqWpTqblTgf2S7Uq2dtcpnuHITi--hs8x1g-eY=&p=11&fvj=0&vjs=3","DATA SCIENTIST - EVIDENCE BASED CARE DESIGN","Presbyterian Healthcare Services","3.5 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","247","Presbyterian Healthcare Services247 reviews-Albuquerque, NM 87101","Overview
+
+
+Job Description Type of Opportunity: Full Time FTE: 1.000000 Exempt: Yes Work Schedule: Days
+
+
+
+
+Summary:Develop innovative & sophisticated analytics models in concert with other Directors within the Analytics Organization (AO) and in partnership with IT to support analytics/reporting needs of business leaders & fellow colleagues for the real time business decision making. Support optimization and enhancement of existing analytical models utilized by the PHS across the AO. Support development and testing of analytical prototypes and contribute to analytical solutions best practices. Develop the communication strategies and transitioning of solutions to other teams within the AO. Responsible for guiding, mentoring and supporting fellow junior scientist and other analytical talent across the AO.
+
+
+
+Responsibilities
+
+Responsibilities:*Provide support in creating/coding, designing and testing pilot data-driven predictive/descriptive analytical models for PHS.to solve business problems leveraging the latest and most appropriate technologies in statistical modeling and machine learning*Ability to work in a diverse team setting across the AO to develop, refine and scale data management and analytics procedures, systems, workflows, best practices and other issues.*Assist in risk identification and mitigation planning and communicate to analytical senior leadership of any issues/escalations & risks*Support management of multi-tasking, achieving milestones, deadlines, and maintaining customer relationships*Support and assist healthcare reporting/analytics system implementations throughout the project life-cycle, performing workflow analysis, testing, training, go-live, system upgrades and issues management in partnership with IT *Ability and experience to deal with very granular data available through various data storage platform (e.g., Hadoop) and summarize, interpret and translate the findings to the leadership promoting data-driven strategic decision making*Design and test structured data and algorithms to support clinical, operational and financial data analysis using advanced data-driven analytical methods from statistics, data mining, econometrics, and operations research*Design models for investigations of various acute/chronic clinical and/or operational and/or financial areas, including hypotheses generation and creating an analysis plan with appropriate primary and secondary data required, and evaluate results of the analysis and interpret conclusions, taking into consideration bias/data limitations as well as performing any specialized analysis required*Create and test optimization algorithms, forecasting and predictive models for patient level outcomes, utilization management, and overall medical services*Support design, build and test of population scoring, stratification and segmentation based on predicted risk of adverse utilization/clinical and financial outcomes*Synthesize findings and conclusions including efficacy of existing programs as well as incremental impact of new care inventions and interventions; design and institute appropriate metrics to assess progress vs. projected impact.*Routinize advanced analytical and reporting methods and techniques for broader use of the AO community*Work with large and complex datasets to derive and validate predictive models across clinical, operational and financial areas*Collaborate and partner with management, project managers, and IT to identify cases that can benefit from predictive analytics and other advanced statistical techniques*Visualize, interpret, report, and communicate data findings creatively in a various formats and audiences*Support advanced analytical and data mining efforts which could include but not limited to clustering, segmentation, logistic and multivariate regression, decision/CART trees, neural networks, time-series analysis, sentiment analysis, topic modeling, random forests, and Bayesian analysis *Support collaboration with other analytics stakeholder to define, gather requirements and build a pilot prototype BI tools*Provide support in designing and development of reusable analytical assets (data structures, code, solutions); test and improvise improvements to existing assets; and conduct evaluation of the suitability and value of potential new assets*Assist in developing training material and provide hands-on mentoring to analytical talent on the appropriate use and interpretation of new analytical models, integration of these models into existing business analyses as well as assure, maintain and improve efficiency and quality; validate work product of peers across the AO*Assist with the preparation of documents/publications and presentation materials describing analytic methods, observations and findings in the AO area *Contribute towards and assist Informaticists leadership in developing a year-end value story to demonstrate value of the team and their contribution to progress towards the AOs and PHSs goals.
+
+
+
+Qualifications
+
+
+Other information:Bachelors degree in an econometrics, physics, biostatistics, computer science, applied mathematics, engineering or any other quantitative related subject area. A Masters or a Ph.D. is highly preferred. Four or more years of related business intelligence, statistical/mathematical, predictive modeling along with the business strategy experience required. Understanding of natural language processing, machine learning, conceptual modelling and hypothesis testing as well as relational database management systems (Oracle, Teradata, SQL Server, DB2 etc.) Knowledge of healthcare industry and healthcare information standards such as HL7, LOINC, FHIR, ICD 9/10 and CPT codes, industry standard groupers (e.g., ETGs, DRGs, DCGs, etc.) as well as of the health care delivery system processes. Experience in big data technologies such as Hadoop, Spark, Kafka, Storm, R, Python, SQL, no-SQL databases, database analytics and graph databases is a PLUS. Adept in using BI tools (e.g., Business Objects/BO, Cognos), data visualizations tools (e.g., Tableau), statistical software such as SAS and general health service research and reporting/analytics. Working knowledge of extract transform and loading (ETL), data cleaning, data normalization/mapping and business process management (BPM) is expected. Experience in mathematical modeling skills including but not limited to classification, regression, survival analysis, recommender systems, experimentation systems (A/B testing), hypothesis testing and supporting development of mathematical algorithms.
+
+
+
+
+Preferred Qualifications:
+Evidence based care work
+Clinical analytics background
+Experience with Epic
+Statistical analysis background
+Experience with SAS, R, Python, Tableau
+Benefits
+
+
+Benefits Benefits are effective day-one (for .45 FTE and above) and include:
+Competitive salaries
+Full medical, dental and vision insurance
+Flexible spending accounts (FSAs)
+Free wellness programs
+Paid time off (PTO)
+Retirement plans, including matching employer contributions
+Continuing education and career development opportunities
+Life insurance and short/long term disability programs
+About Us Presbyterian Healthcare Services is a locally owned, not-for-profit healthcare system of nine hospitals, a statewide health plan and a growing multi-specialty medical group. Founded in New Mexico in 1908, it is the state's largest private employer with approximately 11,000 employees.
+
+
+
+
+Presbyterian's story is really the story of the remarkable people who have chosen to work here. Starting with Reverend Cooper who began our journey in 1908, the hard work of thousands of physicians, employees, board members, and other volunteers brought Presbyterian from a tiny tuberculosis sanatorium to a statewide healthcare system, serving more than 700,000 New Mexicans. We are part of New Mexico's history - and committed to its future. That is why we will continue to work just as hard and care just as deeply to serve New Mexico for years to come. About New Mexico New Mexico's unique blend of Spanish, Mexican and Native American influences contribute to a culturally rich lifestyle. Add in Albuquerque's International Balloon Fiesta, Los Alamos' nuclear scientists, Roswell's visitors from outer space, and Santa Fe's artists, and you get an eclectic mix of people, places and experiences that make this state great. Cities in New Mexico are continually ranked among the nation's best places to work and live by Forbes magazine, Kiplinger's Personal Finance, and other corporate and government relocation managers like Worldwide ERC. New Mexico offers endless recreational opportunities to explore, and enjoy an active lifestyle. Venture off the beaten path, challenge your body in the elements, or open yourself up to the expansive sky. From hiking, golfing and biking to skiing, snowboarding and boating, it's all available among our beautiful wonders of the west. AA/EOE/VET/DISABLED. PHS is a drug-free and tobacco-free employer with smoke free campuses.
+
+
+
+
+AD123
+
+
+
+
+#CB"
+"1572882198-1760","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","DATA SCIENTIST - EVIDENCE BASED CARE DESIGN","https://www.indeed.com/rc/clk?jk=be0a9d5b2aefaac7&fccid=2faa77e8dc712650&vjs=3","DATA SCIENTIST - EVIDENCE BASED CARE DESIGN","Presbyterian Healthcare Services","3.5 out of 5","","","247","Presbyterian Healthcare Services247 reviews-Albuquerque, NM 87106","Develop innovative & sophisticated analytics models in concert with other Directors within the Analytics Organization (AO) and in partnership with IT to support analytics/reporting needs of business leaders & fellow colleagues for the real time business decision making. Support optimization and enhancement of existing analytical models utilized by the PHS across the AO. Support development and testing of analytical prototypes and contribute to analytical solutions best practices. Develop the communication strategies and transitioning of solutions to other teams within the AO. Responsible for guiding, mentoring and supporting fellow junior scientist and other analytical talent across the AO.
+Responsibilities
+
+
+Responsibilities:
+
+Provide support in creating/coding, designing and testing pilot data-driven predictive/descriptive analytical models for PHS.to solve business problems leveraging the latest and most appropriate technologies in statistical modeling and machine learning
+
+Ability to work in a diverse team setting across the AO to develop, refine and scale data management and analytics procedures, systems, workflows, best practices and other issues.
+
+Assist in risk identification and mitigation planning and communicate to analytical senior leadership of any issues/escalations & risks
+
+Support management of multi-tasking, achieving milestones, deadlines, and maintaining customer relationships
+
+Support and assist healthcare reporting/analytics system implementations throughout the project life-cycle, performing workflow analysis, testing, training, go-live, system upgrades and issues management in partnership with IT
+
+Ability and experience to deal with very granular data available through various data storage platform (e.g., Hadoop) and summarize, interpret and translate the findings to the leadership promoting data-driven strategic decision making
+
+Design and test structured data and algorithms to support clinical, operational and financial data analysis using advanced data-driven analytical methods from statistics, data mining, econometrics, and operations research
+
+Design models for investigations of various acute/chronic clinical and/or operational and/or financial areas, including hypotheses generation and creating an analysis plan with appropriate primary and secondary data required, and evaluate results of the analysis and interpret conclusions, taking into consideration bias/data limitations as well as performing any specialized analysis required
+
+Create and test optimization algorithms, forecasting and predictive models for patient level outcomes, utilization management, and overall medical services
+
+Support design, build and test of population scoring, stratification and segmentation based on predicted risk of adverse utilization/clinical and financial outcomes
+
+Synthesize findings and conclusions including efficacy of existing programs as well as incremental impact of new care inventions and interventions; design and institute appropriate metrics to assess progress vs. projected impact.
+
+Routinize advanced analytical and reporting methods and techniques for broader use of the AO community
+
+Work with large and complex datasets to derive and validate predictive models across clinical, operational and financial areas
+
+Collaborate and partner with management, project managers, and IT to identify cases that can benefit from predictive analytics and other advanced statistical techniques
+
+Visualize, interpret, report, and communicate data findings creatively in a various formats and audiences
+
+Support advanced analytical and data mining efforts which could include but not limited to clustering, segmentation, logistic and multivariate regression, decision/CART trees, neural networks, time-series analysis, sentiment analysis, topic modeling, random forests, and Bayesian analysis
+
+Support collaboration with other analytics stakeholder to define, gather requirements and build a pilot prototype BI tools
+
+Provide support in designing and development of reusable analytical assets (data structures, code, solutions); test and improvise improvements to existing assets; and conduct evaluation of the suitability and value of potential new assets
+
+Assist in developing training material and provide hands-on mentoring to analytical talent on the appropriate use and interpretation of new analytical models, integration of these models into existing business analyses as well as assure, maintain and improve efficiency and quality; validate work product of peers across the AO
+
+Assist with the preparation of documents/publications and presentation materials describing analytic methods, observations and findings in the AO area
+
+Contribute towards and assist Informaticists leadership in developing a year-end value story to demonstrate value of the team and their contribution to progress towards the AOs and PHSs goals.
+
+
+Qualifications
+
+
+Other information:
+
+Bachelors degree in an econometrics, physics, biostatistics, computer science, applied mathematics, engineering or any other quantitative related subject area. A Masters or a Ph.D. is highly preferred. Four or more years of related business intelligence, statistical/mathematical, predictive modeling along with the business strategy experience required. Understanding of natural language processing, machine learning, conceptual modelling and hypothesis testing as well as relational database management systems (Oracle, Teradata, SQL Server, DB2 etc.) Knowledge of healthcare industry and healthcare information standards such as HL7, LOINC, FHIR, ICD 9/10 and CPT codes, industry standard groupers (e.g., ETGs, DRGs, DCGs, etc.) as well as of the health care delivery system processes. Experience in big data technologies such as Hadoop, Spark, Kafka, Storm, R, Python, SQL, no-SQL databases, database analytics and graph databases is a PLUS. Adept in using BI tools (e.g., Business Objects/BO, Cognos), data visualizations tools (e.g., Tableau), statistical software such as SAS and general health service research and reporting/analytics. Working knowledge of extract transform and loading (ETL), data cleaning, data normalization/mapping and business process management (BPM) is expected. Experience in mathematical modeling skills including but not limited to classification, regression, survival analysis, recommender systems, experimentation systems (A/B testing), hypothesis testing and supporting development of mathematical algorithms.
+
+
+Preferred Qualifications:
+Evidence based care work
+Clinical analytics background
+Experience with Epic
+Statistical analysis background
+Experience with SAS, R, Python, Tableau
+
+
+Benefits
+
+
+Benefits
+
+Benefits are effective day-one (for .45 FTE and above) and include:
+Competitive salaries
+Full medical, dental and vision insurance
+ Flexible spending accounts (FSAs)
+ Free wellness programs
+Paid time off (PTO)
+Retirement plans, including matching employer contributions
+Continuing education and career development opportunities
+ Life insurance and short/long term disability programs"
+"1572882148-1737","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Machine Learning Engineer","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dd6ODGIcHh14zHDCR9CNseZYtnvrIrHFzn1VRHIqB43_0cG4_WrDwtR9Oy18nPmeBZ1NvtIk2BHeMssz1IQSL3lIcou1YjdtppB_7I36V6KUFCuEDPK2omWXm79rOje3iKk9Y0qnoU6J6JueUHJVBP-0Yg4mVUFBUi61R-lu5AXeKIixNoF0Gk4nVjXMgVtWVOL1wwDN4ntyuRM5tFNXfWr6QXjS_dvoGTbaBPSHMPFNkssXvIsN3qhz_7aAgqjLbcsa19nj-qxzabc00aL87vMnlm7Ns7EopfWQBeWY2Kj4LqXQ5fxDYoOYzmIC4oBbxV2ohK_VdEARUI09MWZDAplO_I72DzJxPq34tph7kz0ObgE22n7MvWvPJSP2geotIQu0DgtT5MCfVoZNiyYGiJEQ9kNmAOfUTA3Ku4z6cxuhkc8rWAW55TlAYkvKuG4zc=&p=0&fvj=1&vjs=3","Machine Learning Engineer","Verus Research","null","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","null","Verus Research-Albuquerque, NM 87110","Verus Research is searching for a Machine Learning Engineer to perform research & development, conception, and implementation of advanced control theory principals for autonomous system development.The primary role for the Machine Learning Engineer will be to develop and implement machine learning algorithms with a focus on reinforcement learning techniques and robotics applications. Of particular interest will be developing algorithms to satisfy given specifications with a high focus on safety assurance.Responsibilities:Design and implement data-driven control algorithms and dynamics modelsResearch novel techniques for incorporating autonomy and intelligence into systems that are safe and trustworthyDevelop simulation environments for data generation and system testingImplement developed algorithms on hardware testbedsPrepare technical reports and present results to colleagues and customersHelp with proposal writing and developing new opportunities in the field of autonomyThe ideal candidate will possess the following:U.S. citizenHolding or being able to obtain a Department of Defense security clearanceAdvanced degree in electrical engineering, controls systems engineering, aerospace engineering, computer science, or related fieldsExperience with MATLAB, SIMULINK, C++, Python or other similar programming languagesExperience developing simulation environments in UnityRobotic control systems experience, including ability to build robotic hardware demonstrations of learned algorithmsDemonstrated record of scientific publications in peer reviewed journals or conference proceedingsPlease express your interest in this opportunity by visiting https://verusresearch.net/careers/.Job Type: Full-timeSalary: $90,000.00 to $135,000.00 /yearExperience:Machine Learning: 3 years (Required)Education:Master's (Required)Work authorization:United States (Required)Additional Compensation:BonusesWork Location:One locationBenefits:Health insuranceDental insuranceVision insuranceRetirement planSigning bonusPaid time offFlexible scheduleParental leaveRelocation assistanceProfessional development assistanceTuition reimbursementThis Job Is Ideal for Someone Who Is:Innovative -- prefers working in unconventional ways or on tasks that require creativityAutonomous/Independent -- enjoys working with little directionPeople-oriented -- enjoys interacting with people and working on group projectsThis Company Describes Its Culture as:Innovative -- innovative and risk-takingTeam-oriented -- cooperative and collaborativePeople-oriented -- supportive and fairness-focusedSchedule::Monday to Friday"
+"1572882193-1758","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Deep Machine Learning Scientist","https://www.indeed.com/rc/clk?jk=ba1d23cc3c722897&fccid=58c52d580682c6ce&vjs=3","Deep Machine Learning Scientist","Los Alamos National Laboratory","4.2 out of 5","","","185","Los Alamos National Laboratory185 reviews-Los Alamos, NM","What You Will Do
+The Computational Physics: Verification & Analysis group (XCP-8) at the Los Alamos National Laboratory (LANL) has openings for a Scientist 2 in the area of deep machine learning with applications to dynamic data, associated uncertainty quantification, and deep machine learning interpretability. The selected candidate will be part of a growing multi-disciplinary project with expertise including diagnostics, computational physics, materials science, mathematics, machine learning, and design & execution of dynamic experiments. The team also seeks to better understand uncertainties associated with deep machine learning predictions and also interpretability of those networks. Ultimately, this work is targeted at extracting much more information from available experimental data by better interfacing these data with advanced hydrodynamic codes and machine learning tools.
+
+
+
+
+What You Need
+Minimum Job Requirements:
+Proficiency in one of the following areas: machine learning (particularly convolutional neural networks), optimization or inverse problems, materials science, shock physics, or computational physics.
+Demonstrated ability to communicate research to an interdisciplinary audience and work on an interdisciplinary team.
+Experience with programming languages such as Python.
+Demonstrated ability to publish research in peer-reviewed journals or conference proceedings.
+Ph.D. in mathematics, materials science, physics, computer science, statistics, machine learning, or a closely related discipline
+Desired Skills:
+Ability and desire to obtain a Q clearance .
+Proficiency with TensorFlow, pyTorch, or Keras .
+Experience in shock physics.
+Experience with deep machine learning techniques and interpretability approaches.
+Notes to Applicants: Applicants must submit a CV and include a cover letter that summarizes their qualifications for the required and desired skills listed above. For questions contact: Garry Maskaly at maskaly@lanl.gov
+Desired start date is as soon as possible
+
+
+
+
+
+Additional Details:
+
+Clearance: Q (Position will be cleared to this level). Applicants selected will be subject to a Federal background investigation and must meet eligibility requirements* for access to classified matter.
+
+*Eligibility requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472.2 for additional information.
+
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing.
+
+Regular position: Term status Laboratory employees applying for regular-status positions are converted to regular status.
+Internal Applicants: Please refer to Laboratory policy P701 for applicant eligibility.
+Equal Opportunity: Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regards to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+
+
+
+Where You Will Work
+Located in northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. LANL enhances national security by ensuring the safety and reliability of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+
+Our diverse workforce enjoys a collegial work environment focused on creative problem solving, where everyone’s opinions and ideas are considered. We are committed to work-life balance and personal/professional growth. Our creative and dedicated computational professionals are our greatest asset and we take pride in cultivating their talents, supporting their efforts, and enabling their success. Together we are advancing our national security mission.
+
+Compensation and Benefits
+Competitive salaries
+Flexible work schedules
+Exercise facility free for staff use
+Choice of comprehensive medical plans
+Paid maternity leave, sick time
+Paid parental leave
+401k match (100% up to 6% + kicker)
+Fully vested in 401k day one
+Disability insurance
+
+
+
+
+
+
+
+
+Appointment Type Regular
+
+
+Regular"
+"1572882207-1764","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Principal Statistician - TOP 5 GLOBAL PHARMA - 100% Remote","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AbOagL8aqw3GCN5XEneeaPzF3exNxv99E_w_iKdr54xjpYbURBUXtjXso-tjgagrVH8ApA29CXP3y6n8K8TgdDUaiEqlegRxJ7RLC-mtMXXq-HBPAL3XoFosgkVdGHn3mfiwVjbw5T5IVQQQtG000JP0HgLn2Xp_dh-l7DQe9RN1UPKKyvbb8XbzGF4DAN0fOs4UJgLv6e820TwwrLSf6CstqPFlIcTjOgbi8baLYL6DEu-NSM5m-T5g__Vo0jBdH_XKQZuufLg9lgAKaMlJch2nJhVrSmzATMk3QLu709TZUkRMRyTw2BJoXpn03ZYOvLp0-4D45Bst0iKB-_fN7TVJCo1FQBUyNnTc_ajD82itkobYhRDQCq1MOQN4SUzOhGSAkN9RMQsNnBgadONt_3odf26zDVmqN7YppDLM996mm-dgByqK_cHesGXnxysIm7Tuij4RoOafFbSY8rYXYx&p=2&fvj=1&vjs=3","Principal Statistician - TOP 5 GLOBAL PHARMA - 100% Remote","i-Pharm Consulting","null","","","null","i-Pharm Consulting-United States","The Principal Statistician is responsible for developing statistical solutions to optimally support all phases of clinical trials and decision making. The successful candidate will function as the study statistician and be accountable for study level deliverables. The role will include key trial statistician responsibilities including statistical design, authoring of SAPs, and conducting just-in-time analyses and data exploration. Industry experience is preferred.Responsibilities:Act as the primary point of contact for all statistical analysis and development; working as a lead of both Statisticians and Programmers on study and database designDevelop guidelines for drafting SAPs and creating statistical models for study insightsReview and at times create specs for programmers following CDISC guidelinesProvides leadership to junior staff regarding synopsis, protocol, SAPs, clinical study report, and other regulatory submission documentsIdentify and interact with external statistical experts for issues related to study design, methodology and resultsStay up-to-date with Biomarker applications and statistical methodologyAbility to build powerful networks within and outside the company and use these relationships to achieve support for the planning and implementation of innovative approaches.Define strategy around managing CRO and vendor delivery timelineDevelop and automate statistical analysis and visualization tools for scientists and other statisticians.Qualifications:PhD in statistics or related field with preferably 1-3 years of relevant pharmaceutical research experience with high-dimensional biomarker data from clinical trials, or Masters in statistics or related field with at least 5 years of relevant experience and demonstrated potential of applying advanced statistical methods.Strong statistical foundation with a wide breadth of interest and expertise in classical and modern statistical and machine learning methods.Ability to apply innovative and fit-for-purpose statistical methods to the analysis of biomarker and high dimensional data from clinical trials.Strong programming skills in R, with demonstrated potential to develop and automate analysis scripts and tools for broader use.Excellent interpersonal and communication skills, with strong potential to build and maintaining strong working relationships.Ability to explain complex statistical concepts in simple and practical terms to non-statisticians.Job Type: Full-timeSalary: $130,000.00 to $150,000.00 /yearExperience:Oncology: 1 year (Preferred)Biostatistics: 7 years (Required)"
+"1572882137-1733","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Deep Machine Learning Postdoc","https://www.indeed.com/rc/clk?jk=af66dbbefc6b99c3&fccid=58c52d580682c6ce&vjs=3","Deep Machine Learning Postdoc","Los Alamos National Laboratory","4.2 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=20","185","Los Alamos National Laboratory185 reviews-Los Alamos, NM","What You Will Do
+The Computational Physics: Verification & Analysis group (XCP-8) at the Los Alamos National Laboratory (LANL) has openings for postdoctoral research associates in the area of deep machine learning with applications to dynamic data, associated uncertainty quantification, and deep machine learning interpretability. The selected candidate will be part of a multi-disciplinary team with expertise including diagnostics, computational physics, materials science, mathematics, machine learning, and design & execution of dynamic experiments. The team also seeks to better understand uncertainties associated with deep machine learning predictions and also interpretability of those networks. Ultimately, this work is targeted at extracting much more information from available experimental data by better interfacing these data with advanced hydrodynamic codes and machine learning tools.
+
+
+
+
+What You Need
+Minimum Job Requirements:
+
+· Proficiency in one of the following areas: machine learning (particularly convolutional neural networks), optimization or inverse problems, materials science, shock physics, or computational physics.
+· Demonstrated ability to communicate research to an interdisciplinary audience and work on an interdisciplinary team.
+· Experience with programming languages such as Python.
+· Demonstrated ability to publish research in peer-reviewed journals or conference proceedings.
+· Ph.D. in mathematics, materials science, physics, computer science, statistics, machine learning, or a closely related discipline completed within the past five years or to be completed soon prior to employment.
+
+Desired Skills
+· Ability and desire to obtain a Q clearance .
+· Proficiency with TensorFlow, pyTorch, or Keras .
+· Experience in shock physics.
+· Experience with deep machine learning techniques and interpretability approaches.
+
+Notes to Applicants: Applicants must submit a CV and include a cover letter that summarizes their qualifications for the required and desired skills listed above. Postdoctoral appointments are for two years, with the possibility of a third-year extension. For questions contact: Garry Maskaly at maskaly@lanl.gov .
+Desired start date is as soon as possible.
+
+
+
+
+Additional Details:
+
+Position does not require a security clearance. Selected candidates will be subject to drug testing and other pre-employment background checks.
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing.
+
+Candidates may be considered for a Director's Postdoc Fellowship and outstanding candidates may be considered for the prestigious Richard P. Feynman, Darleane Christian Hoffman, J. Robert Oppenheimer, or Frederick Reines Distinguished Postdoc Fellowships .
+
+For general information go to Postdoc Program .
+
+Equal Opportunity:
+Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regards to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.
+
+
+
+
+Where You Will Work
+
+Located in northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. LANL enhances national security by ensuring the safety and reliability of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+
+
+
+
+
+
+
+
+Appointment Type Postdoc
+
+
+Postdoc"
+"1572882163-1744","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Autonomy/Artificial Intelligence Technologist","https://www.indeed.com/rc/clk?jk=429e69d6670f76fc&fccid=1f295927bec6a974&vjs=3","Autonomy/Artificial Intelligence Technologist","Alion Science and Technology","3.5 out of 5","Next »","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0&start=10","229","Alion Science and Technology229 reviews-Albuquerque, NM 87110","Job Description
+Position Summary:
+The Autonomy/Artificial Intelligence Technologist is responsible for contributing in the developing of a portfolio of advanced technology products across business units. Will play a role in the technology lifecycle of new products, features or enhancements from conceptualization, requirements gathering, product specification, implementation and release. Contributes to moderately complex aspects of Artificial Intelligence projects and other advanced technology projects or business issues requiring state of the art technical knowledge. Will play a role on specific technologies as well as active external interface to the client and the advanced technical community.
+Job Duties:
+Plan, prepare and present product introduction strategies
+Provide consultation in the early life cycle of the product.
+May participate in the forecasting and financial aspects of the product.
+Apply complete understanding and wide application of technical principles, theories and concepts, and contribute to development of new principles and concepts.
+Develop and programs integrated software algorithms to structure, analyze and leverage data in product and systems applications in both structured and unstructured environments.
+Develop and communicate descriptive, diagnostic, predictive and prescriptive insights/algorithms.
+Use machine language and statistical modeling techniques to develop and evaluate algorithms to improve product/system performance, quality, data management and accuracy.
+Use current programming language and technologies to translate algorithms and technical specifications into code.
+Apply deep learning technologies to provide the capability to visualize, learn and respond to complex situations.
+Adapts machine learning to areas such as virtual reality, augmented reality, artificial intelligence, robotics and other products that allow users to have an interactive experience.
+Apply knowledge of experimental methodologies, statistics, optimization, probability theory and machine learning using code for tool building, statistical analysis and modeling, using both general purpose software and statistical languages.
+Demonstrates good judgment in selecting methods, techniques for obtaining results.
+Qualifications:
+TS with SCI eligibility
+Bachelor’s degree in Computer Science, Math, Statistics, Machine Learning, Engineering or related field plus 5-7 years of experience.
+In some cases, educational requirements may be adjusted or waived for applicable work experience. Work experience may be adjusted for highly specialized knowledge or uniquely applicable experience for positions involving new technology or labor market shortages as reflected by market survey data.
+Requirements:
+Solid foundation in computer science, autonomy, & artificial intelligence.
+Experience with software development.
+Excellent coding skills in object oriented programming languages such as C++ and Python.
+Experience with coding algorithms .
+Supporting national security space capabilities development
+Experience with deep learning libraries, such as TensorFlow, Keras, PyTorch, Theano, or Caffe.
+Experience with machine learning techniques, such as Support Vector Machines, Heuristics, Neural Nets, Markov Decision Process, as well as Natural Language Processing
+Knowledge of data structure, numerical optimization and algorithm complexity
+Experience with Agile methodology and repositoriesCJ
+#CB
+#LI-CW1MV"
+"1572882182-1753","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Machine Learning Engineer","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dd6ODGIcHh14zHDCR9CNseZYtnvrIrHFzn1VRHIqB43_0cG4_WrDwtR9Oy18nPmeBZ1NvtIk2BHeMssz1IQSL3lIcou1YjdtppB_7I36V6KUFCuEDPK2omWXm79rOje3iKk9Y0qnoU6J6JueUHJVBP-0Yg4mVUFBV3MxBsVV9ZEm2ZFpVRVHI_TJBOZKLULnv8LmFQtxILB3JUwwbW2P8Rz1DKClswmDZVqiG1rtzX85lPDHaV9EAItesEoMEoLabvU6uQwnh4Rn7dLnvN4pJvg7b2Ltyc1kF-jdaF2KFyq5jFdGN8avWhZW7c7lHBtRUGtKd2Faeej4tEmZWkNwLZ_UI6oYs-Bo7RY0oe-Xjc2sSkvr5d53v9ikymT12gTUKGxc4Ofi3_IrTRJqYPNhJB1NTtx8F5I2cU-AUaI0LinfyR86x2aSsywYDwcdSZZHM=&p=13&fvj=1&vjs=3","Machine Learning Engineer","Verus Research","null","","","null","Verus Research-Albuquerque, NM 87110","Verus Research is searching for a Machine Learning Engineer to perform research & development, conception, and implementation of advanced control theory principals for autonomous system development.The primary role for the Machine Learning Engineer will be to develop and implement machine learning algorithms with a focus on reinforcement learning techniques and robotics applications. Of particular interest will be developing algorithms to satisfy given specifications with a high focus on safety assurance.Responsibilities:Design and implement data-driven control algorithms and dynamics modelsResearch novel techniques for incorporating autonomy and intelligence into systems that are safe and trustworthyDevelop simulation environments for data generation and system testingImplement developed algorithms on hardware testbedsPrepare technical reports and present results to colleagues and customersHelp with proposal writing and developing new opportunities in the field of autonomyThe ideal candidate will possess the following:U.S. citizenHolding or being able to obtain a Department of Defense security clearanceAdvanced degree in electrical engineering, controls systems engineering, aerospace engineering, computer science, or related fieldsExperience with MATLAB, SIMULINK, C++, Python or other similar programming languagesExperience developing simulation environments in UnityRobotic control systems experience, including ability to build robotic hardware demonstrations of learned algorithmsDemonstrated record of scientific publications in peer reviewed journals or conference proceedingsPlease express your interest in this opportunity by visiting https://verusresearch.net/careers/.Job Type: Full-timeSalary: $90,000.00 to $135,000.00 /yearExperience:Machine Learning: 3 years (Required)Education:Master's (Required)Work authorization:United States (Required)Additional Compensation:BonusesWork Location:One locationBenefits:Health insuranceDental insuranceVision insuranceRetirement planSigning bonusPaid time offFlexible scheduleParental leaveRelocation assistanceProfessional development assistanceTuition reimbursementThis Job Is Ideal for Someone Who Is:Innovative -- prefers working in unconventional ways or on tasks that require creativityAutonomous/Independent -- enjoys working with little directionPeople-oriented -- enjoys interacting with people and working on group projectsThis Company Describes Its Culture as:Innovative -- innovative and risk-takingTeam-oriented -- cooperative and collaborativePeople-oriented -- supportive and fairness-focusedSchedule::Monday to Friday"
+"1572882204-1763","https://www.indeed.com/jobs?q=data+scientist&l=New+Mexico&radius=0","Senior Statistical Programmer – 100% Home Based – CRO","https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AbOagL8aqw3GCN5XEneeaPzF3exNxv99E_w_iKdr54xjpYbURBUXtjXso-tjgagrXZJKstr_1Nm9Bxlm9XmUifAqElOg5uC8RIXd89SOcS7nuJ5hbOzMC9h8f-qjpuCeu2f7zZA7L_686rXbGtJTyumunJdxQvuKLonihafCY96zjMLGBPlcsGem-u7hKYvxToSixsKvIyE472wmcdw3oA8r6NISUhawgcB_09Q2p68ypmBDIxVqWd-OdF7tNWaAL3ouqXwD_s4ukbBvfbWCF7JVPVaDIiBN9H6rn7fsqK0K77xBnOg4Q8pGbrMhAcYVA2HsunpZsbpe-qQfcI8dmlYFc-M2o0YhyonowsmwTwrRrWv-uuzARsIjPLKg3u7aL_WtPD8zncfzu1NdytKvyODrHCnFuKBXFP6vjnfeNIpQwno5mcF--lIyAQuvoHzJEEUT22Cn3CxpcWdnCrwmQw&p=3&fvj=1&vjs=3","Senior Statistical Programmer – 100% Home Based – CRO","i-Pharm Consulting","null","","","null","i-Pharm Consulting-United States","Senior Statistical Programmer – 100% Home based – CRO Senior Statistical Programmer required to work for a true global CRO leader. As a best in service fully end-to-end clinical solutions organization they offer their premium portfolio of client’s concise expertise to a complex marketplace.This position is 100% home based.JOB TITLESenior Statistical Programmer / Snr Stats Programmer / Senior SAS ProgrammerLOCATIONUSA / Home basedSALARY Highly competitive salary (DOE)ROLE/DESCRIPTIONYou will be the ‘go to’ person and serve as the Lead Statistical Programmer for projects of different complexitiesIn a nutshell - you will assist in managing project budgets and tracking project specific performance metrics. Also, function as an internal and external customer liaison.You will SAS software (BASE, STAT, GRAPH, MACRO) to produce well formatted datasetsFrom a quality control (QC) perspective - ensure that outputs of mapped and analysis datasets, tables, listings, and figures and other programming activities are meeting quality standards.As the lead – you will be responsible for: directing the programming activities of other programming personnel, and monitoring progress on deliverables, reviewing project documentation; Statistical Analysis Plan, mock shells, programming specifications, annotated CRFs, and SAS database design, and provide feedback to project team members.You will take part in sponsor meetings, kick-off meetings, and bid defense meetings as Statistical Programming representative (as required by sponsor)Importantly, you be responsible for managing schedule and time constraints across multiple projects, sets goals based on priorities, and priority changes by reorganizing daily workload.REQUIREMENTSAt least 7+ years SAS Programming experience.Bachelor’s Degree or equivalent in Mathematics, Statistics, Computer Science (Masters Degree is a decided advantage)Recent expertise in full oversight and Leading a studySignificant CDISC compliance exposureUnparalleled communication skills and the ability to lead/influence othersBe a real life “self-starter”ABOUT i-PHARM CONSULTINGi-Pharm Consulting is a specialist Recruitment Company servicing the Pharmaceutical industry in the USA, Europe and Asia Pac. We provide both permanent and contract staff to a wide range of Pharmaceutical, Medical Device, Biotechnology and Contract Research Organisations (CROs). i-Pharm has specific expertise in Clinical Research, Medical Affairs, Regulatory Affairs, Pharmacovigilance, Quality Assurance and Bioinformatics.www.i-pharmconsulting.comTO APPLYIf you would like to discuss this vacancy further, please call Practice Lead David Fearnley on +1 (718) 514-9604. If this role is not suitable, David is also available to discuss other possible positions or answer any general questions regarding your career and the current market.KEY WORDSSenior Statistical Programmer / Snr Stats Programmer / Senior SAS Programmer / CDISC / SDTM / ADaM / CRO / Clinical / Research / Statistical / Programmer / GCP / Projects / SAS / BASE / STAT / GRAPH / MACRO / Stats / Home based / Data / Data sets / Lead / Therapy / Clients / MeetingsJob Type: Full-timeExperience:SAS Programming: 7 years (Preferred)Work authorization:United States (Required)"
